@@ -1,9 +1,9 @@
 Project Gutenberg's Night and Morning, Complete, by Edward Bulwer-Lytton
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
 
 Title: Night and Morning, Complete
@@ -11,13 +11,14 @@ Title: Night and Morning, Complete
 Author: Edward Bulwer-Lytton
 
 Release Date: March 17, 2009 [EBook #9755]
+Last Updated: July 24, 2016
 
 Language: English
 
 Character set encoding: ASCII
 
-*** START OF THIS PROJECT GUTENBERG EBOOK NIGHT AND MORNING, COMPLETE ***
-
+*** START OF THIS PROJECT GUTENBERG EBOOK NIGHT AND MORNING, COMPLETE
+***
 
 
 
@@ -25,15 +26,174 @@ Produced by David Widger
 
 
 
-
-
-
-
-
 NIGHT AND MORNING
+
 
 By Edward Bulwer Lytton
 
+
+
+CONTENTS
+
+
+
+PREFACE TO THE EDITION OF 1845.
+
+
+
+NIGHT AND MORNING.
+
+
+
+BOOK I.
+
+INTRODUCTORY CHAPTER.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+CHAPTER VI.
+
+CHAPTER VII.
+
+CHAPTER VIII.
+
+CHAPTER IX.
+
+CHAPTER X.
+
+CHAPTER XI.
+
+
+BOOK II.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+CHAPTER VI.
+
+CHAPTER VII.
+
+CHAPTER VIII.
+
+CHAPTER IX.
+
+CHAPTER X.
+
+CHAPTER XI.
+
+CHAPTER XII.
+
+
+BOOK III.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+CHAPTER VI.
+
+CHAPTER VII.
+
+CHAPTER VIII.
+
+CHAPTER IX.
+
+CHAPTER X.
+
+CHAPTER XI.
+
+CHAPTER XII.
+
+CHAPTER XIII.
+
+CHAPTER XIV.
+
+
+BOOK IV.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+CHAPTER VI.
+
+CHAPTER VII.
+
+CHAPTER VIII.
+
+
+BOOK V.
+
+CHAPTER I.
+
+CHAPTER II.
+
+CHAPTER III.
+
+CHAPTER IV.
+
+CHAPTER V.
+
+CHAPTER VI
+
+CHAPTER VII.
+
+CHAPTER VIII.
+
+CHAPTER IX.
+
+CHAPTER X.
+
+CHAPTER XI.
+
+CHAPTER XII.
+
+CHAPTER XIII.
+
+CHAPTER XIV.
+
+CHAPTER XV.
+
+CHAPTER XVI.
+
+CHAPTER XVII.
+
+CHAPTER XVIII.
+
+CHAPTER XIX.
+
+CHAPTER XX.
+
+CHAPTER XXI.
+
+CHAPTER XII.
+
+CHAPTER THE LAST.
 
 
 
@@ -72,6 +232,7 @@ principle which guides us practically in the daily intercourse with men
 becomes in the general lustre more clear and more pronounced, we gain
 doubly, by the general tendency and the particular result.
 
+
   *[I use the word Poet in its proper sense, as applicable to any
    writer, whether in verse or prose, who invents or creates.]
 
@@ -83,9 +244,9 @@ the ethics of human life in which Truth and Falsehood dwell undisturbed
 and unseparated. The vast and dark Poetry around us--the Poetry of
 Modern Civilisation and Daily Existence, is shut out from us in much,
 by the shadowy giants of Prejudice and Fear. He who would arrive at the
-Fairy Land must face the Phantoms. Betimes, I set myself to the task of
-investigating the motley world to which our progress in humanity--has
-attained, caring little what misrepresentation I incurred, what
+Fairy Land must face the Phantoms. Betimes, I set myself to the task
+of investigating the motley world to which our progress in humanity
+has attained, caring little what misrepresentation I incurred, what
 hostility I provoked, in searching through a devious labyrinth for the
 foot-tracks of Truth.
 
@@ -103,21 +264,21 @@ by which they are occasioned; and commences the great work of justice
 to mankind by proportioning the punishment to the offence. That work,
 I know, had its share in the wise and great relaxation of our Criminal
 Code--it has had its share in results yet more valuable, because leading
-to more comprehensive reforms-viz., in the courageous facing of the ills
-which the mock decorum of timidity would shun to contemplate, but which,
-till fairly fronted, in the spirit of practical Christianity, sap daily,
-more and more, the walls in which blind Indolence would protect itself
-from restless Misery and rampant Hunger. For it is not till Art has told
-the unthinking that nothing (rightly treated) is too low for its breath
-to vivify and its wings to raise, that the Herd awaken from their
-chronic lethargy of contempt, and the Lawgiver is compelled to redress
-what the Poet has lifted into esteem. In thus enlarging the boundaries
-of the Novelist, from trite and conventional to untrodden ends, I have
-seen, not with the jealousy of an author, but with the pride of an
-Originator, that I have served as a guide to later and abler writers,
-both in England and abroad. If at times, while imitating, they have
-mistaken me, I am not. answerable for their errors; or if, more often,
-they have improved where they borrowed, I am not envious of their
+to more comprehensive reforms--viz., in the courageous facing of the
+ills which the mock decorum of timidity would shun to contemplate, but
+which, till fairly fronted, in the spirit of practical Christianity, sap
+daily, more and more, the walls in which blind Indolence would protect
+itself from restless Misery and rampant Hunger. For it is not till Art
+has told the unthinking that nothing (rightly treated) is too low for
+its breath to vivify and its wings to raise, that the Herd awaken from
+their chronic lethargy of contempt, and the Lawgiver is compelled to
+redress what the Poet has lifted into esteem. In thus enlarging the
+boundaries of the Novelist, from trite and conventional to untrodden
+ends, I have seen, not with the jealousy of an author, but with the
+pride of an Originator, that I have served as a guide to later and abler
+writers, both in England and abroad. If at times, while imitating, they
+have mistaken me, I am not answerable for their errors; or if, more
+often, they have improved where they borrowed, I am not envious of their
 laurels. They owe me at least this, that I prepared the way for
 their reception, and that they would have been less popular and more
 misrepresented, if the outcry which bursts upon the first researches
@@ -141,7 +302,7 @@ virtuous, and be served upon its knee, by that Lackey--the Modern World!
 I say not that Law can, or that Law should, reach the Vice as it does
 the Crime; but I say, that Opinion may be more than the servile shadow
 of Law. I impress not here, as in Paul Clifford, a material moral to
-work its effect on the Journals, at the Hastings, through Constituents,
+work its effect on the Journals, at the Hustings, through Constituents,
 and on Legislation;--I direct myself to a channel less active, more
 tardy, but as sure--to the Conscience--that reigns elder and superior to
 all Law, in men's hearts and souls;--I utter boldly and loudly a truth,
@@ -149,7 +310,7 @@ if not all untold, murmured feebly and falteringly before, sooner or
 later it will find its way into the judgment and the conduct, and shape
 out a tribunal which requires not robe or ermine.
 
-Secondly--In this work I have sought to lift the mask from the timid
+Secondly--in this work I have sought to lift the mask from the timid
 selfishness which too often with us bears the name of Respectability.
 Purposely avoiding all attraction that may savour of extravagance,
 patiently subduing every tone and every hue to the aspect of those whom
@@ -201,9 +362,7 @@ but, if truthful, their results are in the works of others, imitating,
 borrowing, enlarging, and improving, in the everlasting Cycle of
 Industry and Thought.
 
-Knebworth, 1845. NOTE TO THE PRESENT EDITION, 1851.
-
-
+Knelworth, 1845. NOTE TO THE PRESENT EDITION, 1851.
 
 I have nothing to add to the preceding pages, written six years ago, as
 to the objects and aims of this work; except to say, and by no means
@@ -224,6 +383,7 @@ or money could get me; and I should add, that my lawyer, unawed by the
 alleged ipse dixit of the great Agitator (to be sure, he is dead), still
 stoutly maintains his own views of the question.
 
+
    [I have, however, thought it prudent so far to meet the objection
    suggested by Mr. O'Connell, as to make a slight alteration in this
    edition, which will probably prevent the objection, if correct,
@@ -238,13 +398,12 @@ Kenbworth.
 
 
 
-
 NIGHT AND MORNING.
 
 
 
-
 BOOK I.
+
 
           "Noch in meines Lebens Lenze
           War ich and ich wandert' aus,
@@ -255,8 +414,8 @@ BOOK I.
 
 
 
-
 INTRODUCTORY CHAPTER.
+
 
         "Now rests our vicar. They who knew him best,
         Proclaim his life to have been entirely rest;
@@ -419,6 +578,7 @@ of, and the rest I can depend on."
 "I detest buts; if I had to make a language, I would not admit such a
 word in it. And now, before I run on about Catherine, a subject quite
 inexhaustible, tell me, my dear friend, something about yourself."
+
 
         .......
 
@@ -658,7 +818,7 @@ call.
 "He should leave you something handsome," remarked the postman, kindly,
 as he pocketed the money for the letter.
 
-The pastor was in bed--the boisterous wind rattled clown the chimney and
+The pastor was in bed--the boisterous wind rattled down the chimney and
 shook the ill-fitting casement in its rotting frame. The clothes he
 had last worn were thrown carelessly about, unsmoothed, unbrushed; the
 scanty articles of furniture were out of their proper places; slovenly
@@ -685,24 +845,22 @@ never wrote to you since we parted, but you know I never was a very good
 correspondent; and as I had nothing to communicate advantageous to you
 I thought it a sort of insult to enlarge on my own happiness, and so
 forth. All I shall say on that score is, that I've sown my wild oats;
-and that you may take my word for it, there's nothing that can make
-a man know how large, the heart is, and how little the world, till
-he comes home (perhaps after a hard day's hunting) and sees his own
-fireside, and hears one dear welcome; and--oh, by the way, Caleb, if you
-could but see my boy, the sturdiest little rogue! But enough of this.
-All that vexes me is, that I've never yet been able to declare my
-marriage: my uncle, however, suspects nothing: my wife bears up against
-all, like an angel as she is; still, in case of any accident, it occurs
-to me, now I'm writing to you, especially if you leave the place, that
-it may be as well to send me an examined copy of the register. In those
-remote places registers are often lost or mislaid; and it may be useful
-hereafter, when I proclaim the marriage, to clear up all doubt as to the
-fact.
+and that you may take my word for it, there's nothing that can make a
+man know how large the heart is, and how little the world, till he comes
+home (perhaps after a hard day's hunting) and sees his own fireside, and
+hears one dear welcome; and--oh, by the way, Caleb, if you could but see
+my boy, the sturdiest little rogue! But enough of this. All that vexes
+me is, that I've never yet been able to declare my marriage: my uncle,
+however, suspects nothing: my wife bears up against all, like an angel
+as she is; still, in case of any accident, it occurs to me, now I'm
+writing to you, especially if you leave the place, that it may be as
+well to send me an examined copy of the register. In those remote places
+registers are often lost or mislaid; and it may be useful hereafter,
+when I proclaim the marriage, to clear up all doubt as to the fact.
 
 "Good-bye, old fellow,
 
 "Yours most truly, &c., &c."
-
 
 "It comes too late," sighed Caleb, heavily; and the letter fell from his
 hands. There was a long pause. "Close the shutters," said the sick man,
@@ -776,7 +934,7 @@ he to the weeping servant; "and just give me that scrap of paper." So
 he wrote on the scrap, "P. S. He died this morning at half-past twelve,
 without pain.--M. J.;" and not taking the trouble to break the seal,
 thrust the final bulletin into the folds of the letter, which he then
-carefully placed in his vast pocket, and safely transferred to the post.
+carefully placed in his vest pocket, and safely transferred to the post.
 And that was all that the jovial and happy man, to whom the letter was
 addressed, ever heard of the last days of his college friend.
 
@@ -804,7 +962,7 @@ instant the whole troop had thrown themselves on the motley contents.
 Stray joints of clumsy fishing-rods; artificial baits; a pair of
 worn-out top-boots, in which one of the urchins, whooping and shouting,
 buried himself up to the middle; moth-eaten, stained, and ragged,
-the collegian's gown-relic of the dead man's palmy time; a bag of
+the collegian's gown--relic of the dead man's palmy time; a bag of
 carpenter's tools, chiefly broken; a cricket-bat; an odd boxing-glove;
 a fencing-foil, snapped in the middle; and, more than all, some
 half-finished attempts at rude toys: a boat, a cart, a doll's house, in
@@ -838,11 +996,11 @@ prim, orderly, and starch young man, framed by nature and trained by
 practice to bear a great deal of solitude and starving. Two loving
 couples had waited to be married till his Reverence should arrive.
 The ceremony performed, where was the registry-book? The vestry was
-searched-the church-wardens interrogated; the gay clerk, who, on the
+searched--the church-wardens interrogated; the gay clerk, who, on the
 demise of his deaf predecessor, had come into office a little before
 Caleb's last illness, had a dim recollection of having taken the
 registry up to Mr. Price at the time the vestry-room was whitewashed.
-The house was searched-the cupboard, the mysterious cupboard, was
+The house was searched--the cupboard, the mysterious cupboard, was
 explored. "Here it is, sir!" cried the clerk; and he pounced upon a
 pale parchment volume. The thin clergyman opened it, and recoiled in
 dismay--more than three-fourths of the leaves had been torn out.
@@ -879,7 +1037,6 @@ everlasting and impenetrable refuge.
 find a new 'un!"
 
 "It is no fault of mine," said the Pastor. "Are my chops ready?"
-
 
 
 
@@ -1036,7 +1193,7 @@ passionately attached to field sports. He lived the greater part of
 the year with Catherine, at the beautiful cottage to which he had built
 hunting stables that were the admiration of the county; and though the
 cottage was near London, the pleasures of the metropolis seldom allured
-him for more than a few days--generally but a few hours-at a time; and
+him for more than a few days--generally but a few hours--at a time; and
 he--always hurried back with renewed relish to what he considered his
 home.
 
@@ -1113,14 +1270,13 @@ a curious collection of bottled snakes.
 
 
 
-
 CHAPTER III.
+
 
    "Stay, delightful Dream;
 
    Let him within his pleasant garden walk;
    Give him her arm--of blessings let them talk."--CRABBE.
-
 
 "There, Robert, there! now you can see the new stables. By Jove, they
 are the completest thing in the three kingdoms!"
@@ -1189,7 +1345,7 @@ rear.
 
 "Yes. I hope this season to bag as many head as my father: he is a
 famous shot. But this is only a single barrel, and an old-fashioned sort
-of detonator. My father must get me one of the new gulls. I can't afford
+of detonator. My father must get me one of the new gulls: I can't afford
 it myself."
 
 "I should think not," said Arthur, smiling.
@@ -1212,7 +1368,9 @@ take a deal of telling before you understand anything!"
 as he went off, "Drat the nat'rel! He speaks to a poor man as if he
 warn't flesh and blood."
 
-"Does your father keep hunters?" asked Philip. No."
+"Does your father keep hunters?" asked Philip.
+
+"No."
 
 "Why?"
 
@@ -1228,19 +1386,18 @@ cousin.
 
 
 
-
 CHAPTER IV.
+
 
    "For a man is helpless and vain, of a condition so exposed to
    calamity that a raisin is able to kill him; any trooper out of the
    Egyptian army--a fly can do it, when it goes on God's errand."
    --JEREMY TAYLOR On the Deceitfulness of the Heart.
 
-
 The two brothers sat at their wine after dinner. Robert sipped claret,
 the sturdy Philip quaffed his more generous port. Catherine and the boys
 might be seen at a little distance, and by the light of a soft August
-moon, among the shrubs and boseluets of the lawn.
+moon, among the shrubs and bosquets of the lawn.
 
 Philip Beaufort was about five-and-forty, tall, robust, nay, of great
 strength of frame and limb; with a countenance extremely winning, not
@@ -1355,7 +1512,7 @@ The two Beauforts stepped through the open casement into the lawn.
 
 "You look pale, Bob--all you London fellows do. As for me, I feel as
 strong as a horse: much better than when I was one of your gay dogs
-straying loose about the town'. 'Gad, I have never had a moment's ill
+straying loose about the town. 'Gad, I have never had a moment's ill
 health, except from a fall now and then. I feel as if I should live for
 ever, and that's the reason why I could never make a will."
 
@@ -1381,7 +1538,7 @@ Mr. Robert bowed his head, coughed huskily, and said, "I appreciate your
 generous affection, Philip."
 
 The next morning, while the elder parties were still over the
-breakfast-table, the younger people were in the grounds it was a lovely
+breakfast-table, the younger people were in the grounds; it was a lovely
 day, one of the last of the luxuriant August--and Arthur, as he looked
 round, thought he had never seen a more beautiful place. It was, indeed,
 just the spot to captivate a youthful and susceptible fancy. The village
@@ -1393,7 +1550,7 @@ cottage, Philip had enlarged the original modest building into a villa
 of some pretensions. On either side a graceful and well-proportioned
 portico stretched verandahs, covered with roses and clematis; to the
 right extended a range of costly conservatories, terminating in vistas
-of trellis-work which formed those elegant alleys called rosaries, and
+of trellis-work which formed those elegant alleys called roseries, and
 served to screen the more useful gardens from view. The lawn, smooth and
 even, was studded with American plants and shrubs in flower, and bounded
 on one side by a small lake, on the opposite bank of which limes and
@@ -1402,14 +1559,14 @@ light fence separated the grounds from a large paddock, in which three
 or four hunters grazed in indolent enjoyment. It was one of those
 cottages which bespeak the ease and luxury not often found in more
 ostentatious mansions--an abode which, at sixteen, the visitor
-contemplates with vague notions of poetry and love--which, at forty, he
-might think dull and d---d expensive-which, at sixty, he would pronounce
-to be damp in winter, and full of earwigs in the summer. Master Philip
-was leaning on his gun; Master Sidney was chasing a peacock butterfly;
-Arthur was silently gazing on the shining lake and the still foliage
-that drooped over its surface. In the countenance of this young man
-there was something that excited a certain interest. He was less
-handsome than Philip, but the expression of his face was more
+contemplates with vague notions of poetry and love--which, at forty,
+he might think dull and d---d expensive--which, at sixty, he would
+pronounce to be damp in winter, and full of earwigs in the summer.
+Master Philip was leaning on his gun; Master Sidney was chasing a
+peacock butterfly; Arthur was silently gazing on the shining lake and
+the still foliage that drooped over its surface. In the countenance of
+this young man there was something that excited a certain interest. He
+was less handsome than Philip, but the expression of his face was more
 prepossessing. There was something of pride in the forehead; but of good
 nature, not unmixed with irresolution and weakness, in the curves of the
 mouth. He was more delicate of frame than Philip; and the colour of his
@@ -1424,8 +1581,8 @@ graceful and self-possessed, and he had his father's sweetness of voice.
 "Yes; this is very nice during the shooting and hunting season. But my
 old nurse says we shall have a much finer place now. I liked this very
 well till I saw Lord Belville's place. But it is very unpleasant not to
-have the finest house in the county: aut Caesar aut nullus--that's my
-motto. Ah! do you see that swallow? I'll bet you a guinea I hit it."
+have the finest house in the county: _aut Caesar aut nullus_--that's
+my motto. Ah! do you see that swallow? I'll bet you a guinea I hit it."
 "No, poor thing! don't hurt it." But ere the remonstrance was uttered,
 the bird lay quivering on the ground. "It is just September, and one
 must keep one's hand in," said Philip, as he reloaded his gun.
@@ -1668,8 +1825,8 @@ and his breath came short: "He has made no will--he never made a will."
 
 
 
-
 CHAPTER V.
+
 
      "Constance. O boy, then where art thou?
         *  * * * What becomes of me"--King John.
@@ -1858,7 +2015,7 @@ fixed on vacancy; listless, drooping; a very image of desolate woe; and
 Sidney was weaving flower-chains at her feet.
 
 "Mamma!--mother!" whispered Philip, as he threw his arms round her neck;
-"look up! look up!-my heart breaks to see you. Do taste this fruit: you
+"look up! look up!--my heart breaks to see you. Do taste this fruit: you
 will die too, if you go on thus; and what will become of us--of Sidney?"
 
 Mrs. Morton did look up vaguely into his face, and strove to smile.
@@ -1878,7 +2035,7 @@ her. At the disposition of Mr. Robert Beaufort the fate of three lives
 might depend. She gasped for breath; again took up the letter; and
 hurried over the contents: they ran thus:
 
-"DEAR, MADAM,--Knowing that you must naturally be anxious as to the
+"DEAR MADAM,--Knowing that you must naturally be anxious as to the
 future prospects of your children and yourself, left by my poor brother
 destitute of all provision, I take the earliest opportunity which it
 seems to me that propriety and decorum allow, to apprise you of my
@@ -1916,6 +2073,7 @@ are settled, to know where the first quarter shall be paid.
 "I shall write to Mr. Jackson (who, I think, is the bailiff) to detail
 my instructions as to selling the crops, &c., and discharging the
 servants; so that you may have no further trouble.
+
 
        "I am, Madam,
            "Your obedient Servant,
@@ -2005,8 +2163,8 @@ their bread!"
 
 
 
-
 CHAPTER VI.
+
 
      "The storm above, and frozen world below.
 
@@ -2201,46 +2359,46 @@ of money? Did he seem dejected, Catherine would steal out and spend a
 week's income on the lapful of toys which she brought home. Did he seem
 a shade more pale--did he complain of the slightest ailment, a doctor
 must be sent for. Alas! her own ailments, neglected and unheeded, were
-growing beyond the reach of medicine. Anxious fearful--gnawed by regret
-for the past--the thought of famine in the future--she daily fretted
-and wore herself away. She had cultivated her mind during her secluded
-residence with Mr. Beaufort, but she had learned none of the arts by
-which decayed gentlewomen keep the wolf from the door; no little holiday
-accomplishments, which, in the day of need turn to useful trade; no
-water-colour drawings, no paintings on velvet, no fabrications of pretty
-gewgaws, no embroidery and fine needlework. She was helpless--utterly
-helpless; if she had resigned herself to the thought of service, she
-would not have had the physical strength for a place of drudgery, and
-where could she have found the testimonials necessary for a place of
-trust? A great change, at this time, was apparent in Philip. Had he
-fallen, then, into kind hands, and under guiding eyes, his passions and
-energies might have ripened into rare qualities and great virtues. But
-perhaps as Goethe has somewhere said, "Experience, after all, is the
-best teacher." He kept a constant guard on his vehement temper--his
-wayward will; he would not have vexed his mother for the world. But,
-strange to say (it was a great mystery in the woman's heart), in
-proportion as he became more amiable, it seemed that his mother loved
-him less. Perhaps she did not, in that change, recognise so closely the
-darling of the old time; perhaps the very weaknesses and importunities
-of Sidney, the hourly sacrifices the child entailed upon her, endeared
-the younger son more to her from that natural sense of dependence and
-protection which forms the great bond between mother and child; perhaps
-too, as Philip had been one to inspire as much pride as affection, so
-the pride faded away with the expectations that had fed it, and carried
-off in its decay some of the affection that was intertwined with it.
-However this be, Philip had formerly appeared the more spoiled and
-favoured of the two: and now Sidney seemed all in all. Thus, beneath the
-younger son's caressing gentleness, there grew up a certain regard for
-self; it was latent, it took amiable colours; it had even a certain
-charm and grace in so sweet a child, but selfishness it was not the
-less. In this he differed from his brother. Philip was self-willed:
-Sidney self-loving. A certain timidity of character, endearing perhaps
-to the anxious heart of a mother, made this fault in the younger boy
-more likely to take root. For, in bold natures, there is a lavish and
-uncalculating recklessness which scorns self unconsciously and though
-there is a fear which arises from a loving heart, and is but sympathy
-for others--the fear which belongs to a timid character is but
-egotism--but, when physical, the regard for one's own person: when
+growing beyond the reach of medicine. Anxious-- fearful--gnawed by
+regret for the past--the thought of famine in the future--she daily
+fretted and wore herself away. She had cultivated her mind during her
+secluded residence with Mr. Beaufort, but she had learned none of the
+arts by which decayed gentlewomen keep the wolf from the door; no little
+holiday accomplishments, which, in the day of need turn to useful trade;
+no water-colour drawings, no paintings on velvet, no fabrications
+of pretty gewgaws, no embroidery and fine needlework. She was
+helpless--utterly helpless; if she had resigned herself to the thought
+of service, she would not have had the physical strength for a place of
+drudgery, and where could she have found the testimonials necessary for
+a place of trust? A great change, at this time, was apparent in Philip.
+Had he fallen, then, into kind hands, and under guiding eyes, his
+passions and energies might have ripened into rare qualities and great
+virtues. But perhaps as Goethe has somewhere said, "Experience, after
+all, is the best teacher." He kept a constant guard on his vehement
+temper--his wayward will; he would not have vexed his mother for the
+world. But, strange to say (it was a great mystery in the woman's
+heart), in proportion as he became more amiable, it seemed that his
+mother loved him less. Perhaps she did not, in that change, recognise
+so closely the darling of the old time; perhaps the very weaknesses and
+importunities of Sidney, the hourly sacrifices the child entailed upon
+her, endeared the younger son more to her from that natural sense of
+dependence and protection which forms the great bond between mother and
+child; perhaps too, as Philip had been one to inspire as much pride as
+affection, so the pride faded away with the expectations that had
+fed it, and carried off in its decay some of the affection that was
+intertwined with it. However this be, Philip had formerly appeared the
+more spoiled and favoured of the two: and now Sidney seemed all in all.
+Thus, beneath the younger son's caressing gentleness, there grew up a
+certain regard for self; it was latent, it took amiable colours; it had
+even a certain charm and grace in so sweet a child, but selfishness
+it was not the less. In this he differed from his brother. Philip
+was self-willed: Sidney self-loving. A certain timidity of character,
+endearing perhaps to the anxious heart of a mother, made this fault in
+the younger boy more likely to take root. For, in bold natures, there is
+a lavish and uncalculating recklessness which scorns self unconsciously
+and though there is a fear which arises from a loving heart, and is but
+sympathy for others--the fear which belongs to a timid character is
+but egotism--but, when physical, the regard for one's own person: when
 moral, the anxiety for one's own interests.
 
 It was in a small room in a lodging-house in the suburb of H---- that
@@ -2259,18 +2417,17 @@ talk of the dreariness of winter; and winter, no doubt, is desolate: but
 what in the world is more dreary to eyes inured to the verdure and bloom
 of Nature--,
 
-     "The pomp of groves and garniture of fields,"
---than a close room in a suburban lodging-house; the sun piercing every
-corner; nothing fresh, nothing cool, nothing fragrant to be seen, felt,
-or inhaled; all dust, glare, noise, with a chandler's shop, perhaps,
-next door? Sidney armed with a pair of scissors, was cutting the
-pictures out of a story-book, which his mother had bought him the day
-before. Philip, who, of late, had taken much to rambling about the
-streets--it may be, in hopes of meeting one of those benevolent,
-eccentric, elderly gentlemen, he had read of in old novels, who suddenly
-come to the relief of distressed virtue; or, more probably, from the
-restlessness that belonged to his adventurous temperament;--Philip had
-left the house since breakfast.
+"The pomp of groves and garniture of fields," --than a close room in a
+suburban lodging-house; the sun piercing every corner; nothing fresh,
+nothing cool, nothing fragrant to be seen, felt, or inhaled; all dust,
+glare, noise, with a chandler's shop, perhaps, next door? Sidney armed
+with a pair of scissors, was cutting the pictures out of a story-book,
+which his mother had bought him the day before. Philip, who, of late,
+had taken much to rambling about the streets--it may be, in hopes of
+meeting one of those benevolent, eccentric, elderly gentlemen, he had
+read of in old novels, who suddenly come to the relief of distressed
+virtue; or, more probably, from the restlessness that belonged to his
+adventurous temperament;--Philip had left the house since breakfast.
 
 "Oh! how hot this nasty room is!" exclaimed Sidney, abruptly, looking
 up from his employment. "Sha'n't we ever go into the country, again,
@@ -2401,13 +2558,14 @@ must be a great comfort. Don't forget to write to Mr. Beaufort; and if
 he don't do something for you he's not the gentleman I take him for; but
 you are my own flesh and blood, and sha'n't starve; for, though I don't
 think it right in a man in business to encourage what's wrong, yet, when
-a person's down in the world, I think an ounce of hell is better than a
+a person's down in the world, I think an ounce of help is better than a
 pound of preaching. My wife thinks otherwise, and wants to send you some
 tracts; but every body can't be as correct as some folks. However, as
 I said before, that's neither here nor there. Let me know when your boy
 comes down, and also about the measles, cowpock, and whooping-cough;
 also if all's right with Mr. Plaskwith. So now I hope you will feel more
 comfortable; and remain,
+
 
      "Dear Catherine,
           "Your forgiving and affectionate brother,
@@ -2460,8 +2618,8 @@ support you both."
 "Why, you do not think, Philip, of being an apprentice!--you, who have
 been so brought up--you, who are so proud!"
 
-"Mother, I would sweep the crossings for your sake I Mother, for
-your sake I would go to my uncle Beaufort with my hat in my hand, for
+"Mother, I would sweep the crossings for your sake! Mother, for your
+sake I would go to my uncle Beaufort with my hat in my hand, for
 halfpence. Mother, I am not proud--I would be honest, if I can--but when
 I see you pining away, and so changed, the devil comes into me, and I
 often shudder lest I should commit some crime--what, I don't know!"
@@ -2543,7 +2701,7 @@ come?"
 "But, sir," said Philip, "will there be no salary? something, ever so
 small, that I could send to my another?"
 
-"Salary, at sixteen?--board and bed-no premium! Salary, what for?
+"Salary, at sixteen?--board and bed--no premium! Salary, what for?
 'Prentices have no salary!--you will have every comfort."
 
 "Give me less comfort, that I may give my mother more;--a little money,
@@ -2633,7 +2791,7 @@ ones left at home. From the eminence of five shillings a week, he looked
 over the Promised Land.
 
 At length, Mr. Plaskwith, pulling out his watch, said, "Just in time
-to catch the coach; make your bow and be off-smart's the word!" Philip
+to catch the coach; make your bow and be off--smart's the word!" Philip
 rose, took up his hat, made a stiff bow that included the whole group,
 and vanished with his host.
 
@@ -2663,7 +2821,7 @@ Philip's face.
 "Very warm. Be so good as to smoke into the face of the gentleman on the
 other side of you," returned Philip, petulantly.
 
-"Ho, ho!" replied the passenger, with a loud, powerful laugh-the laugh
+"Ho, ho!" replied the passenger, with a loud, powerful laugh--the laugh
 of a strong man. "You don't take to the pipe yet; you will by and by,
 when you have known the cares and anxieties that I have gone through.
 A pipe!--it is a great soother!--a pleasant comforter! Blue devils fly
@@ -2799,8 +2957,8 @@ fair and unsullied future, slept the fatherless and friendless boy.
 
 
 
-
 CHAPTER VII.
+
 
    "Constance. My life, my joy, my food, my all the world,
    My widow-comfort."--King John.
@@ -2865,7 +3023,7 @@ and replied frankly:
 "Lose no time, then, in arranging your plans; life is uncertain
 with all--with you, especially; you may live some time yet, but your
 constitution is much shaken--I fear there is water on the chest. No,
-ma'am-no fee. I will see you again."
+ma'am--no fee. I will see you again."
 
 The physician turned to Sidney, who played with his watch-chain, and
 smiled up in his face.
@@ -2893,8 +3051,8 @@ from her, her last solace and comfort; she would die alone,--alone!
 
 
 
-
 CHAPTER VIII.
+
 
    "Constance. When I shall meet him in the court of heaven, I shall
    not know him."--King John.
@@ -2999,7 +3157,7 @@ Mr. Morton turned back, looking agitated.
 
 "Gracious me! She does not go for to say she is your sister?"
 
-"No, no: here's her note-calls herself a lady that's ill. I shall be
+"No, no: here's her note--calls herself a lady that's ill. I shall be
 back soon."
 
 "She can't come here--she sha'n't come here, Mr. M. I'm an honest
@@ -3055,7 +3213,7 @@ turned, as she spoke, towards a little, deformed rickety dwarf of a
 sofa, that seemed to hide itself in the darkest corner of the low,
 gloomy room; and Morton followed her. With one hand she removed the
 shawl that she had thrown over the child, and placing the forefinger of
-the other upon her lips-lips that smiled then--she whispered,--"We will
+the other upon her lips--lips that smiled then--she whispered,--"We will
 not wake him, he is so tired. But I would not put him to bed till you
 had seen him."
 
@@ -3085,7 +3243,7 @@ appeal was made with that trustful, almost cheerful tone which implies,
 sensitive and very docile; you will never have occasion to say a hard
 word to him--never! you have children of your own, brother."
 
-"He is a beautiful boy-beautiful. I will be a father to him!"
+"He is a beautiful boy--beautiful. I will be a father to him!"
 
 As he spoke,--the recollection of his wife--sour, querulous,
 austere--came over him, but he said to himself, "She must take to such
@@ -3173,7 +3331,7 @@ Long was the conference, and sleepless the couch, of Mr. and Mrs.
 Morton. At first that estimable lady positively declared she would not
 and could not visit Catherine (as to receiving her, that was out of the
 question). But she secretly resolved to give up that point in order to
-insist with greater strength upon another-viz., the impossibility of
+insist with greater strength upon another--viz., the impossibility of
 Catherine remaining in the town; such concession for the purpose of
 resistance being a very common and sagacious policy with married ladies.
 Accordingly, when suddenly, and with a good grace, Mrs. Morton appeared
@@ -3219,8 +3377,8 @@ sevigni brooch of yellow topazes glittered in her breast; a huge gilt
 serpent glared from her waistband; her hair, or more properly speaking
 her front, was tortured into very tight curls, and her feet into very
 tight half-laced boots, from which the fragrance of new leather had not
-yet departed. It was this last infliction, for il faut souffrir pour
-etre belle, which somewhat yet more acerbated the ordinary acid of
+yet departed. It was this last infliction, for _il faut souffrir pour
+etre belle_, which somewhat yet more acerbated the ordinary acid of
 Mrs. Morton's temper. The sweetest disposition is ruffled when the shoe
 pinches; and it so happened that Mrs. Roger Morton was one of those
 ladies who always have chilblains in the winter and corns in the summer.
@@ -3268,7 +3426,7 @@ protectress who was to be, and Mrs. Roger muttered:
 "Come here, my dear! A fine little boy!"
 
 "As fine a child as ever I saw!" said Mr. Morton, heartily, as he took
-Sidney on his lap, and stroked down his, golden hair.
+Sidney on his lap, and stroked down his golden hair.
 
 This displeased Mrs. Roger Morton, but she sat herself down, and said it
 was "very warm."
@@ -3319,7 +3477,7 @@ most proper and patronising manner, Mrs. Morton twisted her fingers
 into the boy's hand, and, opening the door that communicated with the
 bedroom, left the brother and sister alone. And then Mr. Morton, with
 more tact and delicacy than might have been expected from him, began to
-soften to Catherine the hard ship of the separation he urged. He dwelt
+soften to Catherine the hardship of the separation he urged. He dwelt
 principally on what was best for the child. Boys were so brutal in their
 intercourse with each other. He had even thought it better represent
 Philip to Mr. Plaskwith as a more distant relation than he was; and he
@@ -3336,8 +3494,8 @@ surface that worldly thoughts and habits had laid, stratum by stratum,
 over the humanities within. He threw his arms round Catherine, and
 strained her to his breast:
 
-"No, my sister--my poor sister-he shall know it when he is old enough to
-understand, and to keep his own secret. He shall know, too, how we
+"No, my sister--my poor sister--he shall know it when he is old enough
+to understand, and to keep his own secret. He shall know, too, how we
 all loved and prized you once; how young you were, how flattered and
 tempted; how you were deceived, for I know that--on my soul I do--I know
 it was not your fault. He shall know, too, how fondly you loved your
@@ -3476,8 +3634,8 @@ was gone.
 
 
 
-
 CHAPTER IX.
+
 
         "Thus things are strangely wrought,
         While joyful May doth last;
@@ -3492,29 +3650,29 @@ countless streams of indolent and voluptuous life; when the upper class
 spend, and the middle class make; when the ball-room is the Market of
 Beauty, and the club-house the School for Scandal; when the hells yawn
 for their prey, and opera-singers and fiddlers--creatures hatched from
-gold, as the dung-flies from the dung-swarm, and buzz, and fatten, round
-the hide of the gentle Public In the cant phase, it was "the London
-season." And happy, take it altogether, happy above the rest of the
-year, even for the hapless, is that period of ferment and fever. It is
-not the season for duns, and the debtor glides about with a less anxious
-eye; and the weather is warm, and the vagrant sleeps, unfrozen, under
-the starlit portico; and the beggar thrives, and the thief rejoices--for
-the rankness of the civilisation has superfluities clutched by all. And
-out of the general corruption things sordid and things miserable crawl
-forth to bask in the common sunshine--things that perish when the first
-autumn winds whistle along the melancholy city. It is the gay time
-for the heir and the beauty, and the statesman and the lawyer, and the
-mother with her young daughters, and the artist with his fresh pictures,
-and the poet with his new book. It is the gay time, too, for the starved
-journeyman, and the ragged outcast that with long stride and patient
-eyes follows, for pence, the equestrian, who bids him go and be d---d in
-vain. It is a gay time for the painted harlot in a crimson pelisse;
-and a gay time for the old hag that loiters about the thresholds of the
-gin-shop, to buy back, in a draught, the dreams of departed youth. It is
-gay, in fine, as the fulness of a vast city is ever gay--for Vice as
-for Innocence, for Poverty as for Wealth. And the wheels of every single
-destiny wheel on the merrier, no matter whether they are bound to Heaven
-or to Hell.
+gold, as the dung-flies from the dung--swarm, and buzz, and fatten,
+round the hide of the gentle Public. In the cant phase, it was "the
+London season." And happy, take it altogether, happy above the rest of
+the year, even for the hapless, is that period of ferment and fever.
+It is not the season for duns, and the debtor glides about with a less
+anxious eye; and the weather is warm, and the vagrant sleeps, unfrozen,
+under the starlit portico; and the beggar thrives, and the thief
+rejoices--for the rankness of the civilisation has superfluities
+clutched by all. And out of the general corruption things sordid and
+things miserable crawl forth to bask in the common sunshine--things that
+perish when the first autumn winds whistle along the melancholy city. It
+is the gay time for the heir and the beauty, and the statesman and the
+lawyer, and the mother with her young daughters, and the artist with his
+fresh pictures, and the poet with his new book. It is the gay time, too,
+for the starved journeyman, and the ragged outcast that with long stride
+and patient eyes follows, for pence, the equestrian, who bids him go and
+be d---d in vain. It is a gay time for the painted harlot in a
+crimson pelisse; and a gay time for the old hag that loiters about the
+thresholds of the gin-shop, to buy back, in a draught, the dreams of
+departed youth. It is gay, in fine, as the fulness of a vast city is
+ever gay--for Vice as for Innocence, for Poverty as for Wealth. And the
+wheels of every single destiny wheel on the merrier, no matter whether
+they are bound to Heaven or to Hell.
 
 Arthur Beaufort, the young heir, was at his father's house. He was fresh
 from Oxford, where he had already discovered that learning is not better
@@ -3553,8 +3711,8 @@ errors of fashionable women, or the disappointments of "a proper
 ambition"--she had more sympathy than might have been supposed, and
 touched on them with all the tact of well-bred charity and ladylike
 forbearance. Thus, though she was regarded as a strict person in point
-of moral decorum, yet in society she was popular-as women at once pretty
-and inoffensive generally are.
+of moral decorum, yet in society she was popular--as women at once
+pretty and inoffensive generally are.
 
 To do Mrs. Beaufort justice, she had not been privy to the letter her
 husband wrote to Catherine, although not wholly innocent of it. The fact
@@ -3568,7 +3726,7 @@ very nearly entrapped my poor brother into marrying her; and he would
 then, for what I know, have cut Arthur out of the estates. Still, I must
 do something for her--eh?"
 
-"Yes, I think so. What was she?-very low?"
+"Yes, I think so. What was she?--very low?"
 
 "A tradesman's daughter."
 
@@ -3820,7 +3978,7 @@ window. A glass of water--a towel."
 "So--so: I see--I see--no fracture--contusion. Help him off with his
 coat. Another chair, ma'am; put up his poor legs. What age is he,
 ma'am?--Sixty-eight! Too old to bleed. Thank you. How is it, sir?
-Poorly, to be sure will be comfortable presently--faintish still? Soon
+Poorly, to be sure: will be comfortable presently--faintish still? Soon
 put all to rights."
 
 "Tray! Tray! Where's my dog, Mrs. Boxer?"
@@ -3837,7 +3995,7 @@ cause for alarm--very comforting that little passion--does him
 good--sets one's mind easy. How did it happen? Ah, I understand! knocked
 down--might have been worse. Your groom (sharp fellow!) explained in a
 trice, sir. Thought it was my old friend here by the description. Worthy
-man--settled here a many year--very odd-eccentric (this in a whisper).
+man--settled here a many year--very odd--eccentric (this in a whisper).
 Came off instantly: just at dinner--cold lamb and salad. 'Mrs. Perkins,'
 says I, 'if any one calls for me, I shall be at No. 4, Prospect Place.'
 Your servant observed the address, sir. Oh, very sharp fellow! See how
@@ -3845,7 +4003,7 @@ the old gentleman takes to his dog--fine little dog--what a stump of a
 tail! Deal of practice--expect two accouchements every hour. Hot weather
 for childbirth. So says I to Mrs. Perkins, 'If Mrs. Plummer is taken, or
 Mrs. Everat, or if old Mr. Grub has another fit, send off at once to No.
-4. Medical men should be always in the way-that's my maxim. Now, sir,
+4. Medical men should be always in the way--that's my maxim. Now, sir,
 where do you feel the pain?"
 
 "In my ears, sir."
@@ -3860,20 +4018,20 @@ little quieting draught to be taken directly--pill at night, aperient
 in the morning. If wanted, send for me--always to be found. Bless me,
 that's my boy Bob's ring. Please to open the door, ma' am. Know his
 ring--very peculiar knack of his own. Lay ten to one it is Mrs. Plummer,
-or perhaps. Mrs. Everat--her ninth child in eight years--in the grocery
+or perhaps, Mrs. Everat--her ninth child in eight years--in the grocery
 line. A woman in a thousand, sir!"
 
 Here a thin boy, with very short coat-sleeves, and very large hands,
 burst into the room with his mouth open. "Sir--Mr. Perkins--sir!"
 
-"I know--I know-coming. Mrs. Plummer or Mrs. Everat?"
+"I know--I know--coming. Mrs. Plummer or Mrs. Everat?"
 
 "No, sir; it be the poor lady at Mrs. Lacy's; she be taken desperate.
 Mrs. Lacy's girl has just been over to the shop, and made me run here to
 you, sir."
 
 "Mrs. Lacy's! oh, I know. Poor Mrs. Morton! Bad case--very bad--must be
-off. Keep him quiet, ma'am. Good day! Look in to-morrow-nine o'clock.
+off. Keep him quiet, ma'am. Good day! Look in to-morrow--nine o'clock.
 Put a little lint with the lotion on the head, ma'am. Mrs. Morton! Ah!
 bad job that."
 
@@ -3920,7 +4078,6 @@ Nater--wonderful thing--Nater!--Here we are."
 
 And the apothecary knocked at the private door of a milliner and
 hosier's shop.
-
 
 
 
@@ -3978,7 +4135,8 @@ I must leave you to judge how far it can be relieved by the good feeling
 of any persons upon whom she may have legitimate claims. At all events,
 I repeat my wish that you should come to her forthwith.
 
-                  "I am, &c."
+
+                  "I am, &amp;c."
 
 After the physician had despatched this letter, a sudden and marked
 alteration for the worse took place in his patient's disorder; and in
@@ -4041,8 +4199,8 @@ too late!
 
 
 
-
 CHAPTER XI.
+
 
      "D'ye stand amazed?--Look o'er thy head, Maximinian!
      Look to the terror which overhangs thee."
@@ -4133,7 +4291,7 @@ the task."
 gasped for breath as he broke the seal. It was the letter of the
 physician.
 
-His mother, then, was ill-dying-wanting, perhaps, the necessaries of
+His mother, then, was ill--dying--wanting, perhaps, the necessaries of
 life. She would have concealed from him her illness and her poverty. His
 quick alarm exaggerated the last into utter want;--he uttered a cry that
 rang through the shop, and rushed to Mr. Plaskwith.
@@ -4151,7 +4309,7 @@ Plaskwith, somewhat stupefied, remained silent.
 
 "Do you hear me?--are you human?" exclaimed Philip, his emotion
 revealing at once all the fire of his character. "I tell you my mother
-is dying; I must go to her! Shall I go empty-handed! Give me money!"
+is dying; I must go to her! Shall I go empty-handed? Give me money!"
 
 Mr. Plaskwith was not a bad-hearted man; but he was a formal man, and
 an irritable one. The tone his shopboy (for so he considered Philip)
@@ -4161,7 +4319,7 @@ rather exasperated than moved him.
 "That's not the way to speak to your master:--you forget yourself, young
 man!"
 
-"Forget!--But, sir, if she has not necessaries-if she is starving?"
+"Forget!--But, sir, if she has not necessaries--if she is starving?"
 
 "Fudge!" said Plaskwith. "Mr. Morton writes me word that he has provided
 for your mother! Does he not, Hannah?"
@@ -4342,7 +4500,7 @@ rushed by him--pale, haggard, breathless--towards the house which he had
 quitted, and the door of which he left open, as he had found it--open,
 as the physician had left it when hurrying, ten minutes before the
 arrival of Mr. Beaufort, from the spot where his skill was impotent.
-Wrapped in gloomy thought, alone, and on foot-at that dreary hour, and
+Wrapped in gloomy thought, alone, and on foot--at that dreary hour, and
 in that remote suburb--the heir of the Beauforts sought his splendid
 home. Anxious, fearful, hoping, the outcast orphan flew on to the
 death-room of his mother.
@@ -4422,7 +4580,7 @@ orphan, and derider of human love, you are not the less a robber though
 the law fences you round, and men call you honest! But I did not hate
 you for this. Now, in the presence of my dead mother--dead, far from
 both her sons--now I abhor and curse you. You may think yourself safe
-when you quit this room-safe, and from my hatred you may be so but
+when you quit this room--safe, and from my hatred you may be so but
 do not deceive yourself. The curse of the widow and the orphan shall
 pursue--it shall cling to you and yours--it shall gnaw your heart in the
 midst of splendour--it shall cleave to the heritage of your son! There
@@ -4440,13 +4598,12 @@ which succeeded to the less sacred paroxysm of revenge and wrath.
 
 
 
-
 BOOK II.
 
 
 
-
 CHAPTER I.
+
 
         "Incubo. Look to the cavalier. What ails he?
          . . . . .
@@ -4681,8 +4838,8 @@ prayed.
 
 
 
-
 CHAPTER II.
+
 
      "His curse! Dost comprehend what that word means?
      Shot from a father's angry breath."
@@ -4781,7 +4938,7 @@ was some relation. Very odd he has never been since. But he'll be sure
 to call again, sir; you had much better stay here."
 
 "No: it does not signify. All that he could do is done. But stay, give
-him this note, if she should call."
+him this note, if he should call."
 
 Philip, taking the pen from the landlady's hand, hastily wrote (while
 Mrs. Lacy went to bring him sealing-wax and a light) these words:
@@ -4955,7 +5112,7 @@ Struck by the voice, Philip looked hard at the speaker. It was the voice
 of the Accursed Son.
 
 "Save me! you remember me?" said the orphan, faintly. "Ah! I think I do;
-poor lad! Follow me-this way!" The stranger turned within the tavern,
+poor lad! Follow me--this way!" The stranger turned within the tavern,
 passed the hall through a sort of corridor that led into a back yard
 which opened upon a nest of courts or passages.
 
@@ -4970,8 +5127,8 @@ Our story returns to Sidney.
 
 
 
-
 CHAPTER III.
+
 
         "Nous vous mettrons a couvert,
         Repondit le pot de fer
@@ -5008,7 +5165,7 @@ mouth.
 naughty; you will be run over some day."
 
 "Yes, ma'am," said Sidney, who during the whole colloquy had been
-trembling from bead to foot.
+trembling from head to foot.
 
 "'Yes ma'am,' and 'no, ma'am:' you have no more manners than a cobbler's
 boy."
@@ -5051,7 +5208,7 @@ pipe. There was a dead silence. Sidney crouched near his uncle, looking
 very pale. Mrs. Morton, who was knitting, knitted away with the excited
 energy of nervous irritation.
 
-"Ring the bell, Sidney," said Mr. Morton. The boy obeyed-the
+"Ring the bell, Sidney," said Mr. Morton. The boy obeyed--the
 parlour-maid entered. "Take Master Sidney to his room; keep the boys
 away from him, and give him a large slice of bread and jam, Martha."
 
@@ -5201,6 +5358,7 @@ did miss it, why should Tom be supposed to have taken it? As he thus
 communed with himself, he drew nearer into the fatal vortex, and at last
 with a desperate plunge, he seized the triangular temptation,--
 
+
      "And ere a man had power to say 'Behold!'
      The jaws of Thomas had devoured it up."
 
@@ -5289,8 +5447,8 @@ fibbing.--The tea's as cold as a stone!"
 
 
 
-
 CHAPTER IV.
+
 
    "Le bien nous le faisons: le mal c'est la Fortune.
    On a toujours raison, le Destin toujours tort."--LA FONTAINE.
@@ -5400,11 +5558,11 @@ made me anxious, and, if you will, suspicious."
 
 "What then?"
 
-"Your dress-your disguise."
+"Your dress--your disguise."
 
 "Disguised yourself!--ha! ha! Behold the world's charity! You fly
 from some danger, some pursuit, disguised--you, who hold yourself
-guiltless--I do the same, and you hold me criminal--a robber, perhaps-a
+guiltless--I do the same, and you hold me criminal--a robber, perhaps--a
 murderer it may be! I will tell you what I am: I am a son of Fortune,
 an adventurer; I live by my wits--so do poets and lawyers, and all the
 charlatans of the world; I am a charlatan--a chameleon. 'Each man in
@@ -5452,8 +5610,8 @@ shall have him, and, Gad, I like him,--poor devil!"
 
 
 
-
 CHAPTER V.
+
 
    "He is a cunning coachman that can turn well in a narrow room."
    Old Play: from Lamb's Specimens.
@@ -5602,8 +5760,8 @@ the phe-a-ton completed the effect produced by the gentleman's previous
 gallantries; and with that she dropped into his hand a very neat card,
 on which was printed, "Wavers and Snow, Staymakers, High Street."
 
-The beau put the card gracefully into his pocket-leaped from the
-coach-nudged aside his rival of the white coat, and offered his arm to
+The beau put the card gracefully into his pocket--leaped from the
+coach--nudged aside his rival of the white coat, and offered his arm to
 the lady, who leaned on it affectionately as she descended.
 
 "This gentleman has been so perlite to me, James," said she. James
@@ -5672,7 +5830,7 @@ said--
 Philip replied--
 
 "Listen to me, my dear brother. We cannot go back to our mother. I will
-tell you why, later. We are alone in the world-we two! If you will come
+tell you why, later. We are alone in the world--we two! If you will come
 with me--God help you!--for you will have many hardships: we shall have
 to work and drudge, and you may be cold and hungry, and tired, very
 often, Sidney,--very, very often! But you know that, long ago, when I
@@ -5697,8 +5855,8 @@ go to-night."
 
 
 
-
 CHAPTER VI.
+
 
      "He comes--
      Yet careless what he brings; his one concern
@@ -5823,7 +5981,8 @@ innocence is fully recognised; and that my father and myself implore him
 to accept our affection. I can write no more now; but in a few days I
 shall hope to see you.
 
-        "I am, sir, &c.,
+
+        "I am, sir, &amp;c.,
             "ARTHUR BEAUFORT.
    "Berkely Square."
 
@@ -5849,8 +6008,8 @@ nature. He had thought to take it, but repented--quite clear. However, I
 was naturally very angry, thought he'd comeback again--meant to
 reprove him properly--waited several days--heard nothing of him--grew
 uneasy--would not attend longer to Mrs. P.; for, as Napoleon Buonaparte
-observed, 'women are well in their way, not in our ours.' Made Plimmins
-go with me to town--hired a Bow Street runner to track him out--cost me
+observed, 'women are well in their way, not in ours.' Made Plimmins go
+with me to town--hired a Bow Street runner to track him out--cost me
 L1. 1s, and two glasses of brandy and water. Poor Mrs. Morton was just
 buried--quite shocked! Suddenly saw the boy in the streets. Plimmins
 rushed forward in the kindest way--was knocked down--hurt his arm--paid
@@ -5860,6 +6019,7 @@ George Blackwell, a gentlemanlike man called. Mr. Beaufort will do
 anything for him in reason. Is there anything more I can do? I really am
 very uneasy about the lad, and Mrs. P. and I have a tiff about it: but
 that's nothing--thought I had best write to you for instructions.
+
 
       "Yours truly,
           "C. PLASHWITH.
@@ -5887,8 +6047,8 @@ orphans had been seen to direct their path.
 
 
 
-
 CHAPTER VII.
+
 
         "Give the gentle South
         Yet leave to court these sails."
@@ -5952,14 +6112,14 @@ in the old time they had often protected the desolate and outcast.
 They avoided the main roads, and all towns, with suspicious care. But
 sometimes they paused, for food and rest, at the obscure hostel of some
 scattered hamlet: though, more often, they loved to spread the simple
-food they purchased by the way under some thick, tree, or beside a
-stream through whose limpid waters they could watch the trout glide and
-play. And they often preferred the chance shelter of a haystack, or a
-shed, to the less romantic repose offered by the small inns they alone
-dared to enter. They went in this much by the face and voice of the host
-or hostess. Once only Philip had entered a town, on the second day of
-their flight, and that solely for the purchase of ruder clothes, and
-a change of linen for Sidney, with some articles and implements of use
+food they purchased by the way under some thick tree, or beside a stream
+through whose limpid waters they could watch the trout glide and play.
+And they often preferred the chance shelter of a haystack, or a shed, to
+the less romantic repose offered by the small inns they alone dared
+to enter. They went in this much by the face and voice of the host or
+hostess. Once only Philip had entered a town, on the second day of their
+flight, and that solely for the purchase of ruder clothes, and a change
+of linen for Sidney, with some articles and implements of use
 necessary in their present course of shift and welcome hardship. A wise
 precaution; for, thus clad, they escaped suspicion.
 
@@ -6045,7 +6205,7 @@ of the stables, in a green short jacket and top-boots, with a long
 whip in his hand, was standing by, with one or two men who looked like
 horsedealers.
 
-"Come off, clumsy! you can't manage that I ere fine hanimal," cried the
+"Come off, clumsy! you can't manage that I 'ere fine hanimal," cried the
 liveryman. "Ah! he's a lamb, sir, if he were backed properly. But I
 has not a man in the yard as can ride since Will died. Come off, I say,
 lubber!"
@@ -6057,7 +6217,7 @@ stood by the side of the horse-dealers. The other ostlers ran to the
 help of their comrade, who at last, with white lips and shaking knees,
 found himself on terra firma; while the horse, snorting hard, and
 rubbing his head against the breast and arms of the ostler, who held him
-tightly by the rein, seemed to ask, is his own way, "Are there any more
+tightly by the rein, seemed to ask, in his own way, "Are there any more
 of you?"
 
 A suspicion that the horse was an old acquaintance crossed Philip's
@@ -6091,7 +6251,7 @@ Monsieur Van Amburgh's exploits.
 
 And now, Philip, still caressing the horse, slowly and cautiously
 mounted; the animal made one bound half-across the yard--a bound which
-sent all the horse-dealers into a corner-and then went through his
+sent all the horse-dealers into a corner--and then went through his
 paces, one after the other, with as much ease and calm as if he had been
 broken in at Mr. Fozard's to carry a young lady. And when he crowned all
 by going thrice over the leaping-bar, and Philip, dismounting, threw the
@@ -6125,7 +6285,7 @@ in his stables?"
 
 "Did you? You could not know a better man. Well, I shall be very glad
 to engage you, though you seem by your hands to be a bit of a
-gentleman-elh? Never mind; don't want you to groom!--but superintend
+gentleman--eh? Never mind; don't want you to groom!--but superintend
 things. D'ye know accounts, eh?"
 
 "Yes."
@@ -6159,8 +6319,8 @@ find the means of earning his bread without stealing it.
 
 
 
-
 CHAPTER VIII.
+
 
      "Don Salluste (souriunt). Je paire
      Que vous ne pensiez pas a moi?"--Ruy Blas.
@@ -6470,8 +6630,8 @@ trust?
 
 
 
-
 CHAPTER IX.
+
 
    "But oh, what storm was in that mind!"--CRABBE. Ruth
 
@@ -6716,8 +6876,8 @@ as is gemmen. But you tell him to go back to his poor dear relations,
 and all shall be forgiven; and say as how you won't keep him; and if he
 don't go back, he'll have to get his livelihood without a carakter; and
 use your influence with him like a man and a Christian, and what's more,
-like the father of a family--Mr. Stub more--with three boys and a babe
-at the buzzom. You won't keep him now?"
+like the father of a family--Mr. Stubmore--with three boys and a babe at
+the buzzom. You won't keep him now?"
 
 "Keep him! I have had a precious escape. I'd better go and see after the
 mare."
@@ -6739,7 +6899,7 @@ Coutts--was the work of five minutes with Mr. Stubmore. He returned
 home, panting and purple with indignation and wounded feeling.
 
 "To think that chap, whom I took into my yard like a son, should have
-connived at this! 'Tain't the money'tis the willany that 'flicts me!"
+connived at this! 'Tain't the money--'tis the willany that 'flicts me!"
 muttered Mr. Stubmore, as he re-entered the mews.
 
 Here he came plump upon Philip, who said--
@@ -6810,8 +6970,8 @@ themselves-marked forcibly and painfully the distinction of rank between
 the two. That distinction Beaufort did not feel; but at a glance it was
 visible to Philip.
 
-The past rushed back on him. The sunny lawn-the gun offered and
-rejected-the pride of old, much less haughty than the pride of to-day.
+The past rushed back on him. The sunny lawn--the gun offered and
+rejected--the pride of old, much less haughty than the pride of to-day.
 
 "Philip," said Beaufort, feebly, "they tell me you will not accept any
 kindness from me or mine. Ah! if you knew how we have sought you!"
@@ -6827,7 +6987,7 @@ turn?"
 
 "Name her not with your lips--name her not!" cried Philip, growing livid
 with his emotions. "Talk not of the mercy--the forethought--a Beaufort
-could show to leer and her offspring! I accept it not--I believe it not.
+could show to her and her offspring! I accept it not--I believe it not.
 Oh, yes! you follow me now with your false kindness; and why? Because
 your father--your vain, hollow, heartless father--"
 
@@ -6901,7 +7061,7 @@ thought he, "is another emissary of the Beauforts'--perhaps the lawyer:
 they will take him from me--the last thing left to love and hope for. I
 will foil them."
 
-"Sidney," he said aloud, "we must go hence today, this very hour-nay,
+"Sidney," he said aloud, "we must go hence today, this very hour--nay,
 instantly."
 
 "What! away from this nice, good gentleman?"
@@ -6916,8 +7076,8 @@ turned their backs on the town.
 
 
 
-
 CHAPTER X.
+
 
                "I'll carry thee
         In sorrow's arms to welcome Misery."
@@ -6999,7 +7159,7 @@ philosophically; "no use fretting, care killed a cat. I am as badly off
 as you; for, hang me, if there was not a Bow Street runner in the town.
 I caught his eye fixed on me like a gimlet: so I bolted--went to N----,
 left my pheaton and groom there for the present, and have doubled back,
-to bauffle pursuit, and cut across the country. You recollect that voice
+to bauffle pursuit, and cut across the country. You recollect that noice
 girl we saw in the coach; 'gad, I served her spouse that is to be a
 praetty trick! Borrowed his money under pretence of investing it in the
 New Grand Anti-Dry-Rot Company; cool hundred--it's only just gone, sir."
@@ -7064,12 +7224,12 @@ you in my arms!"
 
 "I think I am dying," replied Sidney, in a low murmur; "I am so tired
 and worn out I can go no further--I must lie here." And he sank at once
-upon the reeking grass beside the road.. At this time the rain
+upon the reeking grass beside the road. At this time the rain
 gradually relaxed, the clouds broke away--a grey light succeeded to the
 darkness--the lightning was more distant; and the thunder rolled onward
 in its awful path. Kneeling on the ground, Philip supported his brother
 in his arms, and cast his pleading eyes upward to the softening terrors
-of the sky. A star, a solitary star-broke out for one moment, as if to
+of the sky. A star, a solitary star--broke out for one moment, as if to
 smile comfort upon him, and then vanished. But lo! in the distance there
 suddenly gleamed a red, steady light, like that in some solitary window;
 it was no will-o'-the-wisp, it was too stationary--human shelter was
@@ -7105,9 +7265,9 @@ still--where's the choild?"
 "Here, here! make haste, raise him! that's right! God bless you! I shall
 be back ere you think me gone."
 
-He sprang from the road, and plunged through the heath, the furze, the
-rank glistening pools, straight towards the light-as the swimmer towards
-the shore.
+He sprang from the road, and plunged through the heath, the furze,
+the rank glistening pools, straight towards the light--as the swimmer
+towards the shore.
 
 The captain, though a rogue, was human; and when life--an innocent
 life--is at stake, even a rogue's heart rises up from its weedy bed.
@@ -7116,6 +7276,7 @@ and, taking out a little tin case, poured some brandy down Sidney's
 throat and then, by way of company, down his own. The cordial revived
 the boy; he opened his eyes, and said, "I think I can go on now,
 Philip."
+
 
      ........
 
@@ -7234,8 +7395,8 @@ Philip, and he fell to the earth insensible.
 
 
 
-
 CHAPTER XI.
+
 
      "Vous me rendrez mon frere!"
         CASIMER DELAVIGNE: Les Enfans d'Edouard.
@@ -7455,8 +7616,8 @@ soul on the wings of departed Love.
 
 
 
-
 CHAPTER XII.
+
 
         "But you have found the mountain's top--there sit
         On the calm flourishing head of it;
@@ -7606,13 +7767,12 @@ the houseless, and God's eye over both.
 
 
 
-
 BOOK III.
 
 
 
-
 CHAPTER I.
+
 
         "The knight of arts and industry,
         And his achievements fair."
@@ -7633,6 +7793,7 @@ representatives of Hymen, Cupid and Fortune.
 
 On the door was neatly engraved, on a brass plate, the following
 inscription:
+
 
          "MONSIEUR LOVE, ANGLAIS,
             A L'ENTRESOL."
@@ -7667,8 +7828,8 @@ He seemed resolved to destroy all formality between parties who might
 desire to draw closer to each other, and he hit upon the lucky device
 of a table d'hote, very well managed, and held twice a-week, and often
 followed by a soiree dansante; so that, if they pleased, the aspirants
-to matrimonial happiness might become acquainted without gene. As
-he himself was a jolly, convivial fellow of much savoir vivre, it is
+to matrimonial happiness might become acquainted without _gene_. As
+he himself was a jolly, convivial fellow of much _savoir vivre_, it is
 astonishing how well he made these entertainments answer. Persons who
 had not seemed to take to each other in the first distant interview grew
 extremely enamoured when the corks of the champagne--an extra of course
@@ -7686,12 +7847,12 @@ never to shock the delicacy, while they always forwarded the suit.
 It was about eight o'clock in the evening, and Mr. Love was still seated
 at dinner, or rather at dessert, with a party of guests. His apartments,
 though small, were somewhat gaudily painted and furnished, and his
-dining-room was decorated a la Turque. The party consisted-first, of a
-rich epicier, a widower, Monsieur Goupille by name, an eminent man in
+dining-room was decorated a la Turque. The party consisted--first, of
+a rich epicier, a widower, Monsieur Goupille by name, an eminent man in
 the Faubourg; he was in his grand climacteric, but still belhomme; wore
 a very well-made peruque of light auburn, with tight pantaloons, which
 contained a pair of very respectable calves; and his white neckcloth
-and his large gill were washed and got up with especial care. Next to
+and his large frill were washed and got up with especial care. Next to
 Monsieur Goupille sat a very demure and very spare young lady of about
 two-and-thirty, who was said to have saved a fortune--Heaven knows
 how--in the family of a rich English milord, where she had officiated
@@ -7771,6 +7932,7 @@ very small, and he longed to take out his spectacles, but he thought
 that would make him look old. However, he spelled through the motto with
 some difficulty:--
 
+
         "Comme elle fait soumettre un coeur,
         En refusant son doux hommage,
         On peut traiter la coquette en vainqueur;
@@ -7818,6 +7980,7 @@ With this magniloquent aspiration, the gallant Sovolofski pulled
 lustily, and then rubbed his fingers, with a little grimace, observing
 that crackers were sometimes dangerous, and that the present combustible
 was d'une force immense.
+
 
           "Helas! J'ai cru jusqu'a ce jour
           Pouvoir triompher de l'amour,"
@@ -7872,7 +8035,7 @@ could introduce you to a duchess, but then the fee is high. There's
 Mademoiselle de Courval--she dates from the Carlovingians."
 
 "She is very like a boiled sole," answered the Vicomte, with a wry face.
-"Still-what dower has she?"
+"Still--what dower has she?"
 
 "Forty thousand francs, and sickly," replied Mr. Love; "but she likes a
 tall man, and Monsieur Goupille is--"
@@ -7970,7 +8133,7 @@ pushed the Pole into Rosalie's arms, who, having felt him about the face
 for some moments, guessed him to be the tall Frenchman. During this time
 Monsieur and Madame Giraud hid themselves behind the window-curtain.
 
-"Amuse yourself, men ami," said Madame Beaver, to the liberated Pole.
+"Amuse yourself, _mon ami_," said Madame Beaver, to the liberated Pole.
 
 "Ah, madame," sighed Monsieur Sovolofski, "how can I be gay! All
 my property confiscated by the Emperor of Russia! Has La Pologne no
@@ -8001,6 +8164,7 @@ Giraud were ensconced. Somewhat agitated by a slight flutter behind
 the folds, which made him fancy, on the sudden panic, that Rosalie was
 creeping that way, the epicier made an abrupt pirouette, and the hook on
 which the curtains were suspended caught his left coat-tail,
+
 
       "The fatal vesture left the unguarded side;"
 
@@ -8049,7 +8213,6 @@ before he dies. When did you arrive?"
 "To-day."
 
 And thus, Philip Morton and Mr. William Gawtrey met once more.
-
 
 
 
@@ -8141,8 +8304,8 @@ without question placed food before me--pressed on me clothing and
 money--procured me a passport--gave me your address--and now I am
 beneath your roof. Gawtrey, I know nothing yet of the world but the dark
 side of it. I know not what to deem you--but as you alone have been
-kind to me, so it is to your kindness rather than your aid, that I
-now cling--your kind words and kind looks-yet--" he stopped short, and
+kind to me, so it is to your kindness rather than your aid, that I now
+cling--your kind words and kind looks--yet--" he stopped short, and
 breathed hard.
 
 "Yet you would know more of me. Faith, my boy, I cannot tell you more at
@@ -8242,7 +8405,7 @@ it was dull, and, to the unobservant, lifeless, of a pale blue, with a
 dim film over it--the eye of a vulture; but it had in it a calm, heavy,
 stealthy watchfulness, which inspired Morton with great distrust and
 aversion. Mr. Birnie not only spoke French like a native, but all his
-habits, his gestures, his tricks of manner, were, French; not the French
+habits, his gestures, his tricks of manner, were French; not the French
 of good society, but more idiomatic, as it were, and popular. He was
 not exactly a vulgar person, he was too silent for that, but he was
 evidently of low extraction and coarse breeding; his accomplishments
@@ -8285,12 +8448,13 @@ I hope, betimes against the two rocks of youth--love and friendship."
 Then, while squeezing the lemon into his favourite beverage, which
 Morton observed he made stronger than usual, Gawtrey thus commenced:
 
+
          THE HISTORY OF A GOOD-FOR-NOTHING.
 
 
 
-
 CHAPTER III.
+
 
         "All his success must on himself depend,
         He had no money, counsel, guide, or friend;
@@ -8307,7 +8471,7 @@ L5,000. He then looked about for a wife. An honest trader in the Strand,
 who dealt largely in cotton prints, possessed an only daughter; this
 young lady had a legacy, from a great-aunt, of L3,220., with a small
 street in St. Giles's, where the tenants paid weekly (all thieves or
-rogues-all, so their rents were sure). Now my grandfather conceived a
+rogues--all, so their rents were sure). Now my grandfather conceived a
 great friendship for the father of this young lady; gave him a hint as
 to a new pattern in spotted cottons; enticed him to take out a patent,
 and lent him L700. for the speculation; applied for the money at the
@@ -8411,7 +8575,7 @@ age, had grown into the man-villain."
 
 Here Gawtrey paused, and frowned darkly.
 
-"He had great natural parts, this young man-much wit, readiness, and
+"He had great natural parts, this young man--much wit, readiness, and
 cunning, and he became very intimate with my uncle. He learned of him
 how to play the dice, and a pack the cards--he paid him L1,000. for the
 knowledge!"
@@ -8436,13 +8600,13 @@ as the saying is, in the meanwhile. It was my love for her, my wish to
 deserve her, that made me iron against my friend's example. I was fool
 enough to speak to him of Mary--to present him to her--this ended in her
 seduction." (Again Gawtrey paused, and breathed hard.) "I discovered the
-treachery--I called out the seducer-he sneered, and refused to fight the
-low-born adventurer. I struck him to the earth--and then we fought. I
-was satisfied by a ball through my side! but he," added Gawtrey, rubbing
-his hands, and with a vindictive chuckle,--"He was a cripple for life!
-When I recovered I found that my foe, whose sick-chamber was crowded
-with friends and comforters, had taken advantage of my illness to
-ruin my reputation. He, the swindler, accused me of his own crime:
+treachery--I called out the seducer--he sneered, and refused to fight
+the low-born adventurer. I struck him to the earth--and then we fought.
+I was satisfied by a ball through my side! but he," added Gawtrey,
+rubbing his hands, and with a vindictive chuckle,--"He was a cripple
+for life! When I recovered I found that my foe, whose sick-chamber was
+crowded with friends and comforters, had taken advantage of my illness
+to ruin my reputation. He, the swindler, accused me of his own crime:
 the equivocal character of my uncle confirmed the charge. Him, his own
 high-born pupil was enabled to unmask, and his disgrace was visited on
 me. I left my bed to find my uncle (all disguise over) an avowed partner
@@ -8509,6 +8673,7 @@ system, floating along the tide, are terrible icebergs for the vessel
 of the state. Some think Napoleonism over--its effects are only begun.
 Society is shattered from one end to the other, and I laugh at the
 little rivets by which they think to keep it together.
+
 
    [This passage was written at a period when the dynasty of Louis
    Philippe seemed the most assured, and Napoleonism was indeed
@@ -8634,8 +8799,8 @@ heart.
 
 
 
-
 CHAPTER IV.
+
 
      "And she's a stranger
      Women--beware women."--MIDDLETON.
@@ -8742,11 +8907,11 @@ Love.
 "Yes, I will call again. Good morning!" As she rose and passed Philip,
 she wholly put aside her veil, and looked at him with a gaze entirely
 free from coquetry, but curious, searching, and perhaps admiring--the
-look that an artist may give to a picture that seines of more value than
+look that an artist may give to a picture that seems of more value than
 the place where he finds it would seem to indicate. The countenance of
-the lady herself was fair and noble, and Philip felt a strange thrill
-at his heart as, with a slight inclination of her' head, she turned from
-the room.
+the lady herself was fair and noble, and Philip felt a strange thrill at
+his heart as, with a slight inclination of her head, she turned from the
+room.
 
 "Ah!" said Gawtrey, laughing, "this is not the first time I have been
 paid by relations to break off the marriages I had formed. Egad! if one
@@ -8824,6 +8989,7 @@ tool, the strong will and resolute temper of William Gawtrey?
 after all, Birnie is a useful fellow, and dare no more turn against me
 than I against him! Why don't you drink more?
 
+
    "Oh! have you e'er heard of the famed Captain Wattle?"
 
 and Gawtrey broke out into a loud Bacchanalian hymn, in which Philip
@@ -8844,7 +9010,7 @@ looked upon the green sward, with walls covered with ivy at the farther
 end. And Philip's own childhood came back to him as he gazed on the
 quiet of the lonely place.
 
-The door opened--an infant voice was heard, a voice of glee-of rapture;
+The door opened--an infant voice was heard, a voice of glee--of rapture;
 and a child, light and beautiful as a fairy, bounded to Gawtrey's
 breast.
 
@@ -9042,8 +9208,8 @@ the fair incognita, and felt disappointed at having lost the interview.
 
 
 
-
 CHAPTER V.
+
 
      "The cursed carle was at his wonted trade,
      Still tempting heedless men into his snare,
@@ -9221,9 +9387,9 @@ cheeks, so that the astonished Monsieur Goupille really thought himself
 bewitched, and literally did not recognise the face of the match-maker.
 
 "Who is this gentleman?" repeated the little officer, standing beside,
-or rather below, Mr. Love, and looking so diminutive by the contras that
-you might have fancied that the Priest of Hymen had only to breathe to
-blow him away.
+or rather below, Mr. Love, and looking so diminutive by the contrast
+that you might have fancied that the Priest of Hymen had only to breathe
+to blow him away.
 
 "Who should he be, monsieur?" cried, with great pertness, Madame Rosalie
 Caumartin, coming to the relief, with the generosity of her sex.--"This
@@ -9250,7 +9416,7 @@ think I have seen you somewhere!"
 "Yet I have never had the honour to marry monsieur!" said Mr. Love, with
 a polite bow.
 
-In return for his joke, the policeman gave Mr. Love one look-it was a
+In return for his joke, the policeman gave Mr. Love one look--it was a
 quiet look, very quiet; but Mr. Love seemed uncommonly affected by it;
 he did not say another word, but found himself outside the house in a
 twinkling. Monsieur Favart turned round and saw the Pole making himself
@@ -9265,7 +9431,7 @@ misgivings at the unexpected cowardice of so great a patriot.
 person this time. But Monsieur Latour has served his apprenticeship at
 the galleys, and is no more a Pole than I am a Jew."
 
-"And this lady's fortune!" cried Monsieur Goupitle, pathetically; "the
+"And this lady's fortune!" cried Monsieur Groupille, pathetically; "the
 settlements are all made--the notaries all paid. I am sure there must be
 some mistake."
 
@@ -9467,8 +9633,8 @@ than might have been expected.
 
 
 
-
 CHAPTER VI.
+
 
      "Then out again he flies to wing his marry round."
                 THOMPSON'S Castle of Indolence.
@@ -9647,9 +9813,9 @@ Gothic Italy--the Cathedral Church of Milan.
 
 "Chafe not yourself at the universal fate," said the young man, with
 a bitter smile on his lips and pointing to the cathedral; "I have not
-lived long, but I have learned already enough to know this? he who could
-raise a pile like that, dedicated to Heaven, would be honoured as a
-saint; he who knelt to God by the roadside under a hedge would be sent
+lived long, but I have learned already enough to know this,-- he who
+could raise a pile like that, dedicated to Heaven, would be honoured as
+a saint; he who knelt to God by the roadside under a hedge would be sent
 to the house of correction as a vagabond. The difference between man
 and man is money, and will be, when you, the despised charlatan, and
 Lilburne, the honoured cheat, have not left as much dust behind you as
@@ -9657,8 +9823,8 @@ will fill a snuff-box. Comfort yourself, you are in the majority."
 
 
 
-
 CHAPTER VII.
+
 
                 "A desert wild
      Before them stretched bare, comfortless, and vast,
@@ -9698,6 +9864,7 @@ Mr. Gawtrey gazed after him and muttered, "Is the die then cast?"
 that time the whispered conferences with that person, which had seemed
 suspended during their travels, were renewed.
 
+
     ..........
 
 One morning, three men were seen entering Paris on foot through the
@@ -9724,7 +9891,7 @@ because--because--Birnie was ever at me with his horrible temptations!"
 "Birnie! I loathe the man! Will you never get rid of him?"
 
 "I cannot! Hush! he will hear us. How unlucky we have been! and now
-without a son in our pockets--here the dunghill--there the gaol! We are
+without a sou in our pockets--here the dunghill--there the gaol! We are
 in his power at last!"
 
 "His power! what mean you?"
@@ -9737,8 +9904,8 @@ coldly.--"Come to the serrurier's he will trust us."
 
 
 
-
 CHAPTER VIII.
+
 
      "Gaunt Beggary and Scorn with many bell-hounds more."
      THOMSON'S Castle of Indolence.
@@ -9767,6 +9934,7 @@ depraved minds fasten to it like leeches. They brood over and revolve
 it--the idea grows up, a horrid phantasmalian monomania; and all of a
 sudden, in a hundred different places, the one seed sown by the leaden
 types springs up into foul flowering.
+
 
    [An old Spanish writer, treating of the Inquisition, has some very
    striking remarks on the kind of madness which, whenever some
@@ -9880,13 +10048,13 @@ hints of the police; he may denounce me."
 escape. A dark night, and a ladder thrown across from window to window,
 he is with us, or we with him."
 
-"But wherefore such precautions? You blind--you deceive me; what
-have you done?--what is your employment now? You are, mute. Hark you,
-Gawtrey. I have pinned my fate to you--I am fallen from hope itself! At
-times it almost makes me mad to look back--and yet you do not trust me.
-Since your return to Paris you are absent whole nights--often days; you
-are moody and thoughtful-yet, whatever your business, it seems to bring
-you ample returns."
+"But wherefore such precautions? You blind--you deceive me; what have
+you done?--what is your employment now? You are mute. Hark you, Gawtrey.
+I have pinned my fate to you--I am fallen from hope itself! At times
+it almost makes me mad to look back--and yet you do not trust me. Since
+your return to Paris you are absent whole nights--often days; you are
+moody and thoughtful--yet, whatever your business, it seems to bring you
+ample returns."
 
 "You think that," said Gawtrey, mildly, and with a sort of pity in his
 voice; "yet you refuse to take even the money to change those rags."
@@ -10031,8 +10199,8 @@ boyhood--my unworthy palterings with my better self. If Gawtrey be as I
 dread to find him--if he be linked in some guilty and hateful traffic;
 with that loathsome accomplice--I will--" He paused, for his heart
 whispered, "Well, and even so,--the guilty man clothed and fed thee!"
-"I will," resumed his thought, in answer to his heart--"I will
-go on my knees to him to fly while there is yet time, to
+"I will," resumed his thought, in answer to his heart--"I will go on
+my knees to him to fly while there is yet time, to
 work--beg--starve--perish even--rather than lose the right to look man
 in the face without a blush, and kneel to his God without remorse!"
 
@@ -10075,7 +10243,7 @@ The group parted as a light, graceful figure came out of a jeweller's
 shop that adjoined the hotel, and halted gaily amongst the loungers.
 Morton's first impulse was to hurry from the spot; his second impulse
 arrested his step, and, a little apart, and half-hid beneath one of the
-arches of the colonnade which adorns the street, the Outcast gazed upon.
+arches of the colonnade which adorns the street, the Outcast gazed upon
 the Heir. There was no comparison in the natural personal advantages of
 the two young men; for Philip Morton, despite all the hardships of his
 rough career, had now grown up and ripened into a rare perfection
@@ -10104,6 +10272,7 @@ with that silver-ringing tone and charming smile which are to the happy
 spring of man what its music and its sunshine are to the spring of
 earth. "You must dine with me at Verey's. I want something to rouse me
 to-day; for I did not get home from the Salon* till four this morning."
+
 
    *[The most celebrated gaming-house in Paris in the day before
    gaming-houses were suppressed by the well-directed energy of the
@@ -10342,7 +10511,6 @@ Night! Oh, Morning!
 
 
 
-
 CHAPTER IX.
 
 "Meantime a moving scene was open laid, That lazar house."--THOMSON'S
@@ -10385,7 +10553,7 @@ who had not yet spoken) "take three men besides yourself, according to
 the directions I gave you,--the porter will admit you, that's arranged.
 Make no noise. If I don't return by four o'clock, don't wait for me,
 but proceed at once. Look well to your primings. Take him alive, if
-possible--at the worst, dead. And now--anon ami--lead on!"
+possible--at the worst, dead. And now--mon ami--lead on!"
 
 The traitor nodded, and walked slowly down the street. Favart, pausing,
 whispered hastily to the man whom he had called Gilbert,--
@@ -10403,6 +10571,7 @@ up the slide, the dim light gleamed on barrels and wine-casks, which
 appeared to fill up the space. Rolling aside one of these, the guide
 lifted a trap-door, and lowered his lantern. "Enter," said he; and the
 two men disappeared.
+
 
       ........
 
@@ -10665,7 +10834,7 @@ feet, the creaking of doors. All was silent!
 A strong grasp drew his hands from his eyes.
 
 "Your first scene of life against life," said Gawtrey's voice, which
-seemed fearfully changed to the ear that beard it. "Bah! what would you
+seemed fearfully changed to the ear that heard it. "Bah! what would you
 think of a battle? Come to our eyrie: the carcasses are gone."
 
 Morton looked fearfully round the vault. He and Gawtrey were alone. His
@@ -10682,8 +10851,8 @@ of Sleep!
 
 
 
-
 CHAPTER X.
+
 
         "Sleep no more!"--Macbeth
 
@@ -10757,7 +10926,7 @@ upon her death-bed?"
 
 Gawtrey drew back, and Morton, by a sudden impulse, grasped his hand.
 
-"Oh! hear me-hear me!" he cried, with great emotion. "Abandon this
+"Oh! hear me--hear me!" he cried, with great emotion. "Abandon this
 horrible career; you have been decoyed and betrayed to it by one who can
 deceive or terrify you no more! Abandon it, and I will never desert you.
 For her sake--for your Fanny's sake--pause, like me, before the gulf
@@ -10818,9 +10987,9 @@ three efforts, the grappling-hook caught firm hold--the perilous path
 was made.
 
 "On!--quick!--loiter not!" whispered Gawtrey; "you are active--it seems
-more dangerous than it is--cling with both hands-shut your eyes. When on
-the other side--you see the window of Birnie's room,--enter it--descend
-the stairs--let yourself out, and you are safe."
+more dangerous than it is--cling with both hands--shut your eyes.
+When on the other side--you see the window of Birnie's room,--enter
+it--descend the stairs--let yourself out, and you are safe."
 
 "Go first," said Morton, in the same tone: "I will not leave you now:
 you will be longer getting across than I shall. I will keep guard till
@@ -10884,8 +11053,8 @@ behind the parapet.
 
 
 
-
 CHAPTER XI.
+
 
              "Gently moved
      By the soft wind of whispering silks."--DECKER.
@@ -11076,8 +11245,8 @@ now, you see, I must marry!" And the philosophe sauntered away.
 
 
 
-
 CHAPTER XII.
+
 
           GUIOMAR.
      "Those devotions I am to pay
@@ -11128,8 +11297,8 @@ alone!"
 
 At this moment, at a distance, was heard the report of fire-arms--again!
 Eugenie started, and called to her servant, who, with one of the
-waiters hired for the night, was engaged in removing, and nibbling as he
-removed, the re mains of the feast. "What is that, at this hour?--open
+waiters hired for the night, was engaged in removing, and nibbling as
+he removed, the remains of the feast. "What is that, at this hour?--open
 the window and look out!"
 
 "I can see nothing, madame."
@@ -11176,9 +11345,9 @@ and pined, and wept, as the man's breath grew fainter and fainter.
 widow, with nobody to work for my bread?" And with that thought she took
 on worse than before.
 
-"I am stifling," said the dying man, rolling round his ghastly eyes.
-"How hot it is! Open the window; I should like to see the light-daylight
-once again."
+"I am stifling," said the dying man, rolling round his ghastly
+eyes. "How hot it is! Open the window; I should like to see the
+light--daylight once again."
 
 "Mon Dieu! what whims he has, poor man!" muttered the woman, without
 stirring.
@@ -11280,7 +11449,7 @@ pale face and features, beautiful indeed, but at that moment of the
 beauty which an artist would impart to a young gladiator--stamped
 with defiance, menace, and despair. The disordered garb--the fierce
 aspect--the dark eyes, that literally shone through the shadows of the
-room-all conspired to increase the terror of so abrupt a presence.
+room--all conspired to increase the terror of so abrupt a presence.
 
 "What are you?--What do you seek here?" said she, falteringly, placing
 her hand on the bell as she spoke. Upon that soft hand Morton laid his
@@ -11312,8 +11481,8 @@ Morton obeyed, and Eugenie replaced the curtain.
 
 
 
-
 CHAPTER XIII.
+
 
              GUIOMAR.
      "Speak! What are you?"
@@ -11342,7 +11511,7 @@ when does man's justice look to the right place?
 
 The servant lingered to repeat the tale he had heard--the sight he had
 seen. When, at that instant, he saw the curtain of the alcove slightly
-stirred. He uttered an exclamation-sprung to the bed--his hand touched
+stirred. He uttered an exclamation--sprung to the bed--his hand touched
 the curtain--Eugenie seized his arm. She did not speak; but as he turned
 his eyes to her, astonished, he saw that she trembled, and that her
 cheek was as white as marble.
@@ -11497,7 +11666,7 @@ continued his way. The gentleman turned down one of the streets to the
 left, stopped, and called to the servant dozing behind his cabriolet.
 
 "Follow that passenger! quietly--see where he lodges; be sure to find
-out and let me know. I shall go home with out you." With that he drove
+out and let me know. I shall go home without you." With that he drove
 on.
 
 Philip, unconscious of the espionage, arrived at a small house in a
@@ -11640,8 +11809,8 @@ Vicomte de Vaudemont.
 
 
 
-
 CHAPTER XIV.
+
 
         "A silver river small
         In sweet accents
@@ -11669,6 +11838,7 @@ The stranger, on reaching the middle of the sacred ground, paused and
 looked round him wistfully. He then approached, slowly and hesitatingly,
 an oblong tablet, on which were graven, in letters yet fresh and new,
 these words:--
+
 
                  TO THE
          MEMORY OF ONE CALUMNIATED AND WRONGED
@@ -11843,8 +12013,9 @@ master's companions.
 
 "And a good thing it is, then, sir!"
 
-"For shame, woman!" said Morton, indignantly. "Hey-dey! sir! whom have
-we got here?"
+"For shame, woman!" said Morton, indignantly.
+
+"Hey-dey! sir! whom have we got here?"
 
 "One," said Simon, sternly, "whom you will treat with respect. He brings
 me a blessing to lighten my loss. One harsh word to this child, and you
@@ -12002,7 +12173,7 @@ The child pressed her lips to his cheek, but the lips were cold. He put
 her down gently; she stood mute and passive.
 
 "Remember that he wished me to leave you here," whispered Morton, using
-an argument that never failed. "We must obey him; and so-God bless you,
+an argument that never failed. "We must obey him; and so--God bless you,
 Fanny!"
 
 He rose and retreated to the door; the child unclosed her eyes, and
@@ -12183,7 +12354,7 @@ of heaven's light was there in that cloud than in the rushlights
 that, flickering in sordid chambers, shed on dull things the dull
 ray--esteeming themselves as stars!
 
-Months-years passed--Fanny was thirteen, when there dawned a new era to
+Months--years passed--Fanny was thirteen, when there dawned a new era to
 her existence. Mrs. Boxer had never got over her first grudge to Fanny.
 Her treatment of the poor girl was always harsh, and sometimes cruel.
 But Fanny did not complain, and as Mrs. Boxer's manner to her before
@@ -12234,9 +12405,9 @@ feebly; "I think you will grieve when I go."
 Mrs. Boxer sobbed, and before she had recovered, the lawyer entered.
 That day a new will was made; and the lawyer politely informed Mrs.
 Boxer that her services would be dispensed with the next morning, when
-he should bring a nurse to the house. Mrs. Boxer heard, and
-took her resolution. As soon as Simon again fell asleep,
-she crept into the room-led away Fanny--locked her up in her own
+he should bring a nurse to the house. Mrs. Boxer heard, and took her
+resolution. As soon as Simon again fell asleep, she crept into
+the room--led away Fanny--locked her up in her own
 chamber--returned--searched for the key of the bureau, which she found
 at last under Simon's pillow--possessed herself of all she could lay her
 hands on--and the next morning she had disappeared forever! Simon's loss
@@ -12290,13 +12461,12 @@ her blind grandfather!" They called her idiot still!
 
 
 
-
 BOOK IV.
 
 
 
-
 CHAPTER I.
+
 
      "O that sweet gleam of sunshine on the lake!"
      WILSON'S City of the Plague
@@ -12341,6 +12511,7 @@ peculiar harmony with those serene and soft retreats, both young--both
 beautiful. Lovers you would have guessed them to be; but such lovers
 as Fletcher might have placed under the care of his "Holy
 Shepherdess"--forms that might have reclined by
+
 
      "The virtuous well, about whose flowery banks
      The nimble-footed fairies dance their rounds
@@ -12483,8 +12654,8 @@ rival, to Mr. Beaufort an encumbrance on the property.
 
 
 
-
 CHAPTER II.
+
 
      * * * "The moon
      Saddening the solemn night, yet with that sadness
@@ -12788,8 +12959,8 @@ gifts?
 
 
 
-
 CHAPTER III.
+
 
    "Bertram. I mean the business is not ended, as fearing to hear of
    it hereafter.
@@ -12838,7 +13009,7 @@ The servant re-appeared. "Sir, he says he does belong to the county."
 five shillings just slipped within his palm by the stranger, "quite the
 gentleman."
 
-"More wine, then-stir up the fire."
+"More wine, then--stir up the fire."
 
 In a few moments the visitor was ushered into the apartment. He was
 a man between fifty and sixty, but still aiming at the appearance of
@@ -13162,7 +13333,7 @@ myself."
 
 "Very willingly: 'tis a sort of thing I like--I'm fond of dealing with
 rogues--it amuses me. This day week? I'll be at your house--your proxy;
-I shall do better than Black well. And since you say you are wanted at
+I shall do better than Blackwell. And since you say you are wanted at
 the Lakes, go down, and leave all to me."
 
 "A thousand thanks. I can't say how grateful I am. You certainly are the
@@ -13465,7 +13636,8 @@ narrative,--"because the young man refused to take the legal steps
 to proclaim his birth and naturalise himself a Frenchman; because, no
 sooner was Madame de Merville dead than he forsook the father he had so
 newly discovered--forsook France, and entered with some other officers,
-under the brave, in the service of one of the native princes of India."
+under the brave, &m------ in the service of one of the native princes of
+India."
 
 "But perhaps he was poor," observed Lord Lilburne. "A father is a very
 good thing, and a country is a very good thing, but still a man must
@@ -13523,7 +13695,6 @@ toast, 'Success to those who have the wit to plan, and the strength to
 execute.' In other words, 'the Right Divine!'"
 
 Soon afterwards the guests retired.
-
 
 
 
@@ -13597,6 +13768,7 @@ moon.--Good-bye.--The moon," she repeated to herself, as she walked on,
 "I used to be afraid of the moon when I was a little child;" and then,
 after a pause, she murmured, in a low chaunt:
 
+
         "'The moon she is a wandering ghost,
         That walks in penance nightly;
         How sad she is, that wandering moon,
@@ -13617,7 +13789,7 @@ yet, who would harm her?"
 Meanwhile the girl proceeded along the lane, which was skirted by small,
 but not mean houses, till it terminated in a cross-stile that admitted
 into a church yard. Here hung the last lamp in the path, and a few
-dint stars broke palely over the long grass, and scattered gravestones,
+dim stars broke palely over the long grass, and scattered gravestones,
 without piercing the deep shadow which the church threw over a large
 portion of the sacred ground. Just as she passed the stile, the man,
 whom we have before noticed, and who had been leaning, as if waiting for
@@ -13681,7 +13853,7 @@ her, wretch!"
 The man, trembling, half with superstitious, half with bodily fear, let
 go his captive, who fell at once at the knees of her deliverer. "Don't
 you hurt me too," she said, as the tears rolled down her eyes. "I am a
-good girl-and my grandfather's blind."
+good girl--and my grandfather's blind."
 
 The stranger bent down and raised her; then looking round for the
 assailant with an eye whose dark fire shone through the gloom, he
@@ -13716,7 +13888,7 @@ your voice--I like you--Oh! I have dropped my basket!"
 "Another!--Oh, no! come back for it. How kind you are!--Ah! I see it!"
 and she broke away and ran forward to pick it up.
 
-When she had recovered it, she laughed-she spoke to it--she kissed it.
+When she had recovered it, she laughed--she spoke to it--she kissed it.
 
 Her companion smiled as he said: "Some sweetheart has given you that
 basket--it seems but a common basket too."
@@ -13756,6 +13928,7 @@ must be--it must!"
 "Yes! I love that churchyard--my brother told me to put flowers there;
 and grandfather and I sit there in the summer, without speaking. But I
 don't talk much, I like singing better:--
+
 
         "'All things that good and harmless are
         Are taught, they say, to sing
@@ -13827,7 +14000,7 @@ older;--you are--you are!--no! no! you are not my brother!"
 
 "I am much changed, Fanny; and you too!"
 
-He smiled as he spoke; and the smile-sweet and pitying--thoroughly
+He smiled as he spoke; and the smile--sweet and pitying--thoroughly
 changed the character of his face, which was ordinarily stern, grave,
 and proud.
 
@@ -13871,6 +14044,7 @@ brother--no wife--no sister!"
 "None! No one to care whether I live or die," answered the stranger,
 with a mixture of pride and sadness in his voice. "But, as the song has
 it--
+
 
           "'I care for nobody--no, not I,
           For nobody cares for me!'"
@@ -13951,40 +14125,40 @@ Fanny spoke of Death!
 
 
 
-
 CHAPTER V.
+
 
         "Ulyss. Time hath a wallet at his back
         Wherein he puts alms for oblivion.
         * * Perseverance, dear my lord,
         Keeps honour bright."--Troilus and Cressida.
 
-I have, not sought--as would have been easy, by a little ingenuity
-in the earlier portion of this narrative--whatever source of vulgar
-interest might be derived from the mystery of names and persons. As
-in Charles Spencer the reader is allowed at a glance to detect Sidney
-Morton, so in Philip de Vaudemont (the stranger who rescued Fanny) the
-reader at once recognises the hero of my tale; but since neither of
-these young men has a better right to the name resigned than to the name
-adopted, it will be simpler and more convenient to designate them by
-those appellations by which they are now known to the world. In truth,
-Philip de Vaudemont was scarcely the same being as Philip Morton. In the
-short visit he had paid to the elder Gawtrey, when he consigned Fanny to
-his charge, he had given no name; and the one he now took (when, towards
-the evening of the next day he returned to Simon's house) the old man
-heard for the first time. Once more sunk into his usual apathy,
-Simon did not express any surprise that a Frenchman should be so well
-acquainted with English--he scarcely observed that the name was French.
-Simon's age seemed daily to bring him more and more to that state when
-life is mere mechanism, and the soul, preparing for its departure, no
-longer heeds the tenement that crumbles silently and neglected into
-its lonely dust. Vaudemont came with but little luggage (for he had
-an apartment also in London), and no attendant,--a single horse was
-consigned to the stables of an inn at hand, and he seemed, as soldiers
-are, more careful for the comforts of the animal than his own. There
-was but one woman servant in the humble household, who did all the ruder
-work, for Fanny's industry could afford it. The solitary servant and the
-homely fare sufficed for the simple and hardy adventurer.
+I have not sought--as would have been easy, by a little ingenuity in the
+earlier portion of this narrative--whatever source of vulgar interest
+might be derived from the mystery of names and persons. As in Charles
+Spencer the reader is allowed at a glance to detect Sidney Morton, so in
+Philip de Vaudemont (the stranger who rescued Fanny) the reader at once
+recognises the hero of my tale; but since neither of these young men has
+a better right to the name resigned than to the name adopted, it will be
+simpler and more convenient to designate them by those appellations by
+which they are now known to the world. In truth, Philip de Vaudemont was
+scarcely the same being as Philip Morton. In the short visit he had
+paid to the elder Gawtrey, when he consigned Fanny to his charge, he had
+given no name; and the one he now took (when, towards the evening of the
+next day he returned to Simon's house) the old man heard for the first
+time. Once more sunk into his usual apathy, Simon did not express any
+surprise that a Frenchman should be so well acquainted with English--he
+scarcely observed that the name was French. Simon's age seemed daily to
+bring him more and more to that state when life is mere mechanism, and
+the soul, preparing for its departure, no longer heeds the tenement that
+crumbles silently and neglected into its lonely dust. Vaudemont came
+with but little luggage (for he had an apartment also in London), and
+no attendant,--a single horse was consigned to the stables of an inn at
+hand, and he seemed, as soldiers are, more careful for the comforts of
+the animal than his own. There was but one woman servant in the humble
+household, who did all the ruder work, for Fanny's industry could afford
+it. The solitary servant and the homely fare sufficed for the simple and
+hardy adventurer.
 
 Fanny, with a countenance radiant with joy, took his hand and led him to
 his room. Poor child! with that instinct of woman which never deserted
@@ -14300,8 +14474,8 @@ strong protector.
 
 
 
-
 CHAPTER VI.
+
 
      "Timon. Each thing's a thief
      The laws, your curb and whip, in their rough power
@@ -14488,8 +14662,9 @@ round the emptied room.
 "It is the best compliment you could pay me. Another night we can
 enliven our tete-a-tete with ecarte; though at your age, and with your
 appearance, I am surprised, Monsieur de Vaudemont, that you are fond of
-play: I should have thought that it was not in a pack of cards that you
-looked for hearts. But perhaps you are blaze betimes of the beau sexe."
+play: I should have thought that it was not in a pack of cards that
+you looked for hearts. But perhaps you are _blase _betimes of the _beau
+sexe_."
 
 "Yet your lordship's devotion to it is, perhaps, as great now as ever?"
 
@@ -14597,8 +14772,8 @@ what the world was good for! Draw the curtains, Dykeman."
 
 
 
-
 CHAPTER VII.
+
 
      "Org. Welcome, thou ice that sitt'st about his heart
      No heat can ever thaw thee!"--FORD: Broken Heart.
@@ -14790,7 +14965,7 @@ that gate my friend Robert walked the same day into a very fine estate!"
 "Yes; two. But they came into the world in the primitive way in which
 Mr. Owen wishes us all to come--too naturally for the present state of
 society, and Mr. Owen's parallelogram was not ready for them. By
-the way, one of them disappeared at Paris;-you never met with him, I
+the way, one of them disappeared at Paris--you never met with him, I
 suppose?"
 
 "Under what name?"
@@ -14993,8 +15168,8 @@ before you come back again!"
 
 
 
-
 CHAPTER VIII.
+
 
      "Well did they know that service all by rote;
 
@@ -15174,7 +15349,7 @@ and his too."
 
 Mr. Spencer bowed, and the great man rising, with a stiff affectation of
 kindly affability, put his arm into the uncle's, and strolled with him
-across the lawn towards the lovers. And such is life-love on the lawn
+across the lawn towards the lovers. And such is life--love on the lawn
 and settlements in the parlour.
 
 The lover was the first to perceive the approach of the elder parties.
@@ -15333,7 +15508,6 @@ Sharp has not yet discovered.
 
 From ROBERT BEAUFORT, ESQ., M.P., to the LORD LILBURNE.
 
-
 "DEAR, LILBURNE,--Accept my warmest thanks for your kindness; you
 have done admirably, and I do not see that I have anything further to
 apprehend. I suspect that it was an entire fabrication on that man's
@@ -15429,13 +15603,12 @@ there is thy temple, O melancholy Time!
 
 
 
-
 BOOK V.
 
 
 
-
 CHAPTER I.
+
 
      "Per ambages et ministeria deorum."--PETRONTUS.
 
@@ -15524,7 +15697,7 @@ washing bills.
 "Now," said the husband, closing the door, "what do you mean, my good
 fellow?"
 
-"Sir, what I wish to ask you is-if you can tell me what has become
+"Sir, what I wish to ask you is--if you can tell me what has become
 of--of the young Beau--, that is, of your sister's sons. I understand
 there were two--and I am told that--that they are both dead. Is it so?"
 
@@ -15545,7 +15718,7 @@ approached, and bent over his wife. "Who's this man?"
 
 "I don't know."
 
-"Depend on it, he has some claim to make-some bills or something. Don't
+"Depend on it, he has some claim to make--some bills or something. Don't
 commit yourself--the boys are dead for what we know!"
 
 Mr. Morton hemmed and returned to his visitor.
@@ -15575,12 +15748,12 @@ Mr. Morton recoiled.
 day--good day. I'm busy."
 
 The stranger pecked for a moment at his hat--turned the handle of the
-door-peered under his grey eyebrows at the portly trader, who, with both
-hands buried in his pockets, his mouth pursed up, like a man about to
-say "No" fidgeted uneasily behind Mrs. Morton's chair. He sighed, shook
-his head, and vanished.
+door--peered under his grey eyebrows at the portly trader, who, with
+both hands buried in his pockets, his mouth pursed up, like a man about
+to say "No" fidgeted uneasily behind Mrs. Morton's chair. He sighed,
+shook his head, and vanished.
 
-Mrs. Morton rang the bell-the maid-servant entered. "Wipe the carpet,
+Mrs. Morton rang the bell--the maid-servant entered. "Wipe the carpet,
 Jenny;--dirty feet! Mr. Morton, it's a Brussels!"
 
 "It was not my fault, my dear. I could not talk about family matters
@@ -15726,8 +15899,8 @@ last surviving son to some anxious father--I, from whom he was reft and
 robbed--I ask you again for Sidney--for my brother!"
 
 "And again, I say, that I have no information to give you--that--Stay
-a moment-stay. You must pardon what I have said of you before you made
-yourself known. I went but by the accounts I had received from Mr.
+a moment--stay. You must pardon what I have said of you before you
+made yourself known. I went but by the accounts I had received from Mr.
 Beaufort. Let me speak plainly; that gentleman thought, right or wrong,
 that it would be a great thing to separate your brother from you. He may
 have found him--it must be so--and kept his name and condition concealed
@@ -15789,8 +15962,8 @@ Because--Man believes the Strong!
 
 
 
-
 CHAPTER II.
+
 
         "--Quid Virtus et quid Sapientia possit
         Utile proposuit nobis exemplar Ulssem." HOR.
@@ -15913,7 +16086,7 @@ really were dead."
 "Why, look you, man, it was not our interest to take their side if we
 could make our bargain out of the other. 'Cause why? You are only one
 witness--you are a good fellow, but poor, and with very shaky nerves,
-Will. You does not know what them big wigs are when a roan's caged in a
+Will. You does not know what them big wigs are when a man's caged in a
 witness-box--they flank one up, and they flank one down, and they bully
 and bother, till one's like a horse at Astley's dancing on hot iron.
 If your testimony broke down, why it would be all up with the case,
@@ -16019,7 +16192,7 @@ tell you what, if these youngsters have hopped the twig, there's another
 bird on the bough that may prove a goldfinch after all--Young Arthur
 Beaufort: I hear he is a wild, expensive chap, and one who can't live
 without lots of money. Now, it's easy to frighten a man of that sort,
-and I cha'n't have the old lord at his elbow."
+and I sha'n't have the old lord at his elbow."
 
 "But I tell you, that I only care for my poor master's children."
 
@@ -16038,8 +16211,8 @@ wonder if she fall on the parish.
 
 
 
-
 CHAPTER III.
+
 
      "Mitis.--This Macilente, signior, begins to be more sociable on
      a sudden." Every Man out of his Humour.
@@ -16123,7 +16296,7 @@ from business. His son-in-law, Mr. Plimmins, has succeeded."
 
 "Oh, then, Plimmins married one of the young ladies?"
 
-"Yes, Jane--she bad a sad squint!--Tom, there is nothing to laugh
+"Yes, Jane--she had a sad squint!--Tom, there is nothing to laugh
 at,--we are all as God made us,--'Handsome is as handsome does,'--she
 has had three little uns!"
 
@@ -16152,8 +16325,8 @@ you!" And he shut the door on his uncle, and was alone.
 
 
 
-
 CHAPTER IV.
+
 
         "The Man of Law,.......
         And a great suit is like to be between them."
@@ -16177,6 +16350,7 @@ will meet (besides any two or three friends whom an impromptu invitation
 may find disengaged) my sister, with Beaufort and their daughter: they
 only arrived in town this morning, and are kind enough 'to nurse me,' as
 they call it,--that is to say, their cook is taken ill!
+
 
                    "Yours,
 
@@ -16386,8 +16560,8 @@ Law is not justice--"
 
 
 
-
 CHAPTER V.
+
 
      "Volpone. A little in a mist, but not dejected;
      Never--but still myself."
@@ -16490,7 +16664,7 @@ recognition was not mutual. He advanced, and again stopped short, as his
 eye fell upon that fair and still childlike form, which had once knelt
 by his side and pleaded, with the orphan, for his brother. While he
 spoke to her, many recollections, some dark and stern--but those, at
-least, connected with Camilla, soft and gentle-thrilled through his
+least, connected with Camilla, soft and gentle--thrilled through his
 heart. Occupied as her own thoughts and feelings necessarily were with
 Sidney, there was something in Vaudemont's appearance--his manner, his
 voice--which forced upon Camilla a strange and undefined interest; and
@@ -16675,8 +16849,8 @@ paint in dreams the fairy land of a happy Future!
 
 
 
-
 CHAPTER VI
+
 
      "Ring on, ye bells--most pleasant is your chime!"
       WILSON. Isle of Palms.
@@ -16868,6 +17042,7 @@ it. Can you read what is there inscribed?"
 
 The inscription was simply this:
 
+
                 TO W--
  G--
               MAN SEES THE DEED
@@ -16926,8 +17101,8 @@ its melancholy charm.
 
 
 
-
 CHAPTER VII.
+
 
         "Of all men, I say,
         That dare, for 'tis a desperate adventure,
@@ -17078,7 +17253,7 @@ going to bed, to see that the fire was duly out, and all safe: and as
 she approached the hearth, she started to see Fanny still up.
 
 "Dear heart alive!" she said; "why, Miss Fanny, you will catch your
-death of cold,-what are you thinking about?"
+death of cold,--what are you thinking about?"
 
 "Sit down, Sarah; I want to speak to you." Now, though Fanny was
 exceedingly kind, and attached to Sarah, she was seldom communicative
@@ -17138,7 +17313,7 @@ heart if you goes for to fancy any such thing."
 "Why, that that gentleman will marry you!--I'm sure, tho' he's so simple
 like, he's some great gentleman! They say his hoss is worth a hundred
 pounds! Dear, dear! why didn't I ever think of this before? He must be a
-very wicked man. I see, now, why he comes here. I'll speak to him, that,
+very wicked man. I see, now, why he comes here. I'll speak to him, that
 I will!--a very wicked man!"
 
 Sarah was startled from her indignation by Fanny's rising suddenly,
@@ -17208,8 +17383,8 @@ up-stairs together--friends.
 
 
 
-
 CHAPTER VIII.
+
 
         "As the wind
         Sobs, an uncertain sweetness comes from out
@@ -17292,8 +17467,8 @@ yet!"
 
 
 
-
 CHAPTER IX.
+
 
         "Thierry. I do begin
         To feel an alteration in my nature,
@@ -17398,7 +17573,7 @@ if it is known that one shoots well,--it keeps one out of quarrels!"
 
 "Very true," said Lilburne, rather admiringly. "I have made the same
 remark myself when I was younger. I have not shot with a pistol for
-since years. I am well enough now to walk out with the help of a stick.
+some years. I am well enough now to walk out with the help of a stick.
 Suppose we practise for half-an-hour or so."
 
 "With all my heart," said Mr. Marsden.
@@ -17657,8 +17832,8 @@ the suppliant, but as the lord of her father's fate.
 
 
 
-
 CHAPTER X.
+
 
    "Here's something got amongst us!"--Knight of Malta.
 
@@ -17689,11 +17864,11 @@ yourself the trouble! nothing ever goes wrong if I myself take it in
 hand."
 
 The next day Lord Lilburne, who, in truth, felt himself uncomfortable
-and gene in the presence of Vaudemont; who had won as much as the guests
-at Beaufort Court seemed inclined to lose; and who made it the rule of
-his life to consult his own pleasure and amusement before anything
-else, sent for his post-horses, and informed his brother-in-law of his
-departure.
+and _gene_ in the presence of Vaudemont; who had won as much as the
+guests at Beaufort Court seemed inclined to lose; and who made it
+the rule of his life to consult his own pleasure and amusement before
+anything else, sent for his post-horses, and informed his brother-in-law
+of his departure.
 
 "And you leave me alone with this man just when I am convinced that he
 is the person we suspected! My dear Lilburne, do stay till he goes."
@@ -17703,7 +17878,7 @@ that time of life. Besides, I've said all I can say; rest quiet--act on
 the defensive--entangle this cursed Vaudemont, or Morton, or whoever he
 be, in the mesh of your daughter's charms, and then get rid of him, not
 before. This can do no harm, let the matter turn out how it will.
-Read the papers; and send for Blackwell if you want advice on any, new
+Read the papers; and send for Blackwell if you want advice on any new
 advertisements. I don't see that anything more is to be done at present.
 You can write to me; I shall be at Park Lane or Fernside. Take care of
 yourself. You're a lucky fellow--you never have the gout! Good-bye."
@@ -17735,7 +17910,7 @@ society as always haunting the places where Lilburne played at cards,
 carefully choosing some other table, and as carefully betting upon
 Lilburne's side. The card-tables were now broken up; Vaudemont's
 superiority in shooting, and the manner in which he engrossed the talk
-of the sportsmen, displeased him. He was bored--he wanted to be off-and
+of the sportsmen, displeased him. He was bored--he wanted to be off--and
 off he went. Vaudemont felt that the time was come for him to depart,
 too; Robert Beaufort--who felt in his society the painful fascination
 of the bird with the boa, who hated to see him there, and dreaded to
@@ -17775,6 +17950,7 @@ The letter ran thus:
 you. Ill as I am, I can have no peace till I see and consult you. The
 most startling--the most painful intelligence has just been conveyed to
 me. It is of a nature not to bear any but personal communication.
+
 
           "Your affectionate son,
                      "ARTHUR BEAUFORT.
@@ -17818,8 +17994,9 @@ instructions without a moment's delay, I shall leave London by the mail,
 and wait you at D---- (at the principal inn), which is, I understand,
 twenty miles on the high road from Beaufort Court.
 
+
             "I have the honor to be, sir,
-                  "Yours, &c.,
+                  "Yours, &amp;c.,
                       "JOHN BARLOW.
 
 Vaudemont was yet lost in the emotions that this letter aroused, when
@@ -17839,8 +18016,8 @@ instant, and then hurried down the stairs.
 
 
 
-
 CHAPTER XI.
+
 
      "Longueville.--What! are you married, Beaufort?
      Beaufort.--Ay, as fast
@@ -17909,6 +18086,7 @@ ill--frightened out of his wits--will go off to the governor, take me
 with him as far as Bullone. I think we shall settel it now. Mind as
 I saide before, don't put your foot in it. I send you a Nap in the
 Seele--all I can spare.
+
 
              "Yours,
                   "JEREMIAH SMITH.
@@ -18079,8 +18257,8 @@ which was now the Night--to which the Morning?
 
 
 
-
 CHAPTER XII.
+
 
      "Bakam. Let my men guard the walls.
      Syana. And mine the temple."--The Island Princess.
@@ -18146,7 +18324,7 @@ often--every day, indeed. I have been so safe. Nobody has ever offered
 to be rude again to Fanny" (the word "Fanny" was carefully scratched out
 with a penknife, and me substituted). "But you shall know all when you
 come. And are you sure you are well--quite--quite well? Do you never
-have the headaches you complained of sometimes? Do say this? Do you walk
+have the headaches you complained of sometimes? Do say this! Do you walk
 out-every day? Is there any pretty churchyard near you now? Whom do you
 walk with?
 
@@ -18225,7 +18403,7 @@ you.
 
 "This was the only course left to me--indeed it was. I made myself
 acquainted with your movements. Do not blame me, then, for prying into
-your footsteps. I watched for you all last night-you did not come out.
+your footsteps. I watched for you all last night--you did not come out.
 I was in despair. At last I find you. Do not be so terrified: I will not
 even touch your hand if you do not wish it."
 
@@ -18392,8 +18570,8 @@ no bolts and no bars can exclude the voice of the human heart.
 
 
 
-
 CHAPTER XIII.
+
 
      "In te omnis domus inclinata recumbit."--VIRGIL.
 
@@ -18535,7 +18713,7 @@ unlocked the bureau, and was searching in the drawers, when he heard the
 voice of Fanny above, raised a little as if in remonstrance or entreaty;
 and he paused to listen. He could not, however, distinguish what was
 said; and in the meanwhile, without attending much to what he was about,
-his bands were still employed in opening and shutting the drawers,
+his hands were still employed in opening and shutting the drawers,
 passing through the pigeon-holes, and feeling for a topaz brooch, which
 he thought could not fail of pleasing the unsophisticated eyes of Fanny.
 One of the recesses was deeper than the rest; he fancied the brooch
@@ -18566,19 +18744,22 @@ parish of St. Botolph, Aldgate, London, were married in this church by
 banns, this 12th day of November, in the year one thousand eight hundred
 and ----' by me,
 
+
                    "CALEB PRICE, Vicar.
 
 "This marriage was solemnised between us,
 
+
                    "PHILIP BEAUFORT.
                    "CATHERINE MORTON.
 
-"In the presence of
-                   "DAVID APREECE.
+
+"In the presence of                   "DAVID APREECE.
                    "WILLIAM SMITH.
 
 "The above is a true copy taken from the registry of marriages, in
 A-----parish, this 19th day of March, 18--, by me,
+
 
                 "MORGAN JONES, Curate of C-------."
 
@@ -18599,8 +18780,8 @@ rushed into the study.
 
 
 
-
 CHAPTER XIV.
+
 
    "Gone, and none know it.
 
@@ -18716,8 +18897,8 @@ flanks of London post-horses.
 
 
 
-
 CHAPTER XV.
+
 
           "Ex humili magna ad fastigia rerum
           Extollit."--JUVENAL.
@@ -18768,7 +18949,7 @@ conscience will allow us to resist his rights. He is so obstinate in
 this matter; his nerves so ill bear reasoning and contradiction, that I
 know not what to do--"
 
-"Take breath-go on."
+"Take breath--go on."
 
 "Well, it seems that this man found out Arthur almost as soon as my son
 arrived at Paris--that he has persuaded Arthur that he has it in his
@@ -18811,17 +18992,17 @@ And Robert Beaufort sobbed. Lilburne looked at him in scornful surprise.
 know it? Do not fear me. No;--I, too, have reasons to hate and to
 fear this Philip Vaudemont; for Vaudemont shall be his name, and not
 Beaufort, in spite of fifty such scraps of paper! He has known a man--my
-worst foe--he has secrets of mine--of my past-perhaps of my present: but
-I laugh at his knowledge while he is a wandering adventurer;--I should
-tremble at that knowledge if he could thunder it out to the world as
-Philip Beaufort of Beaufort Court! There, I am candid with you. Now
+worst foe--he has secrets of mine--of my past--perhaps of my present:
+but I laugh at his knowledge while he is a wandering adventurer;--I
+should tremble at that knowledge if he could thunder it out to the world
+as Philip Beaufort of Beaufort Court! There, I am candid with you. Now
 hear my plan. Prove to Arthur that his visitor is a convicted felon, by
 sending the officers of justice after him instantly--off with him again
 to the Settlements. Defy a single witness--entrap Vaudemont back to
 France and prove him (I think I will prove him such--I think so--with
 a little money and a little pains)--prove him the accomplice of William
 Gawtrey, a coiner and a murderer! Pshaw! take yon paper. Do with it as
-you will--keep it-give it to Arthur--let Philip Vaudemont have it, and
+you will--keep it--give it to Arthur--let Philip Vaudemont have it, and
 Philip Vaudemont will be rich and great, the happiest man between earth
 and paradise! On the other hand, come and tell me that you have lost
 it, or that I never gave you such a paper, or that no such paper ever
@@ -18974,7 +19155,7 @@ Why, if found out, it is subornation of witnesses. It is exposure--it is
 dishonour--it is ruin. What then? You should take the risk--for you must
 meet ruin if you do not. I cannot. I have nothing to gain!"
 
-"I dare not!-I dare not!" murmured Beaufort, quite spirit-broken.
+"I dare not!--I dare not!" murmured Beaufort, quite spirit-broken.
 "Subornation, dishonour, exposure!--and I, so respectable--my
 character!--and my son against me, too!--my son, in whom I lived again!
 No, no; let them take all! Let them take it! Ha! ha! let them take it!
@@ -18993,7 +19174,7 @@ evidence; and if they do--Um!--My granddaughter--is it possible!--And
 Gawtrey rescued her mother, my child, from her own mother's vices! I
 thought my liking to that girl different from any other I have ever
 felt: it was pure--it was!--it was pity--affection. And I must never see
-her again--must forget the whole thing! And I sin growing old--and I
+her again--must forget the whole thing! And I am growing old--and I
 am childless--and alone!" He paused, almost with a groan: and then
 the expression of his face changing to rage, he cried out, "The man
 threatened me, and I was a coward! What to do?--Nothing! The defensive
@@ -19011,8 +19192,8 @@ rests,--Activity is the lever of Archimedes.
 
 
 
-
 CHAPTER XVI.
+
 
      "Quam inulta injusta ac prava fiunt moribus."--TULL.
 
@@ -19168,9 +19349,11 @@ But again, I say justice, and not revenge! And with this I conclude,
 inclosing to you these lines, written in your own hand, and leaving you
 the arbiter of their value.
 
+
              "ARTHUR BEAUFORT."
 
 The lines inclosed were these, a second time placed before the reader
+
 
    "I cannot guess who you are. They say that you call yourself a
    relation; that must be some mistake. I knew not that my poor mother
@@ -19278,8 +19461,8 @@ Brother! my dear brother!"
 
 
 
-
 CHAPTER XVII.
+
 
    "Warwick.--Exceeding well! his cares are now all over."
    --Henry IV.
@@ -19477,24 +19660,24 @@ room! Robert Beaufort raised his face from his hands. His son was dead!
 
 
 
-
 CHAPTER XVIII.
+
 
         "Jul. And what reward do you propose?
 
         It must be my love."--The Double Marriage.
 
 While these events, dark, hurried, and stormy, had befallen the family
-of his betrothed, Sidney lead continued his calm life by the banks of
-the lovely lake. After a few weeks, his confidence in Camilla's fidelity
-overbore all his apprehensions and forebodings. Her letters, though
-constrained by the inspection to which they were submitted, gave him
-inexpressible consolation and delight. He began, however, early to fancy
-that there was a change in their tone. The letters seemed to shun the
-one subject to which all others were as nought; they turned rather upon
-the guests assembled at Beaufort Court; and why I know not,--for there
-was nothing in them to authorise jealousy--the brief words devoted to
-Monsieur de Vaudemont filled him with uneasy and terrible suspicion.
+of his betrothed, Sidney Beaufort continued his calm life by the banks
+of the lovely lake. After a few weeks, his confidence in Camilla's
+fidelity overbore all his apprehensions and forebodings. Her letters,
+though constrained by the inspection to which they were submitted, gave
+him inexpressible consolation and delight. He began, however, early to
+fancy that there was a change in their tone. The letters seemed to shun
+the one subject to which all others were as nought; they turned rather
+upon the guests assembled at Beaufort Court; and why I know not,--for
+there was nothing in them to authorise jealousy--the brief words devoted
+to Monsieur de Vaudemont filled him with uneasy and terrible suspicion.
 He gave vent to these feelings, as fully as he dared do, under the
 knowledge that his letter would be seen; and Camilla never again even
 mentioned the name of Vaudemont. Then there was a long pause; then her
@@ -19542,7 +19725,6 @@ anticipate.
 "ROBERT BEAUFORT.
 
 "To C. SPENCER, Esq., Jun."
-
 
 When Sidney received this letter, he was with Mr. Spencer, and the
 latter read it over the young man's shoulder, on which he leant
@@ -19682,8 +19864,8 @@ gloomy and despairing solitude. The day that he read it he disappeared.
 
 
 
-
 CHAPTER XIX.
+
 
      "Jul.... Good lady, love him!
      You have a noble and an honest gentleman.
@@ -19753,7 +19935,7 @@ little establishment was increased. She never stirred out without Sarah;
 yet she would rather that there had been some danger on her account for
 him to guard against, or some trial that his smile might soothe.
 His prolonged absences began to prey upon her--the books ceased to
-interest--no study filled up the dreary gap--her step grew listless-her
+interest--no study filled up the dreary gap--her step grew listless--her
 cheek pale--she was sensible at last that his presence had become
 necessary to her very life. One day, he came to the house earlier than
 usual, and with a much happier and serener expression of countenance
@@ -19769,7 +19951,7 @@ interest of Fanny's strange lot, but which, in narration, I feel
 I cannot make sufficiently clear to the reader. And this was her
 connection and residence with that old man. Her character forming, as
 his was completely gone; here, the blank becoming filled--there, the
-page fading to a blank. It was the tatter, total Deathliness-in-Life of
+page fading to a blank. It was the utter, total Deathliness-in-Life of
 Simon, that, while so impressive to see, renders it impossible to bring
 him before the reader in his full force of contrast to the young Psyche.
 He seldom spoke--often, not from morning till night; he now seldom
@@ -19821,8 +20003,8 @@ of the hollowness of his own words, when he spoke of service to the
 dead, smote upon Philip's heart, and stopped the flow of his words.
 
 Fanny, conscious only of his praise, his thanks, and the tender
-affection of his voice, stood still silent-her eyes downcast, her breast
-heaving.
+affection of his voice, stood still silent--her eyes downcast, her
+breast heaving.
 
 Philip resumed:
 
@@ -19870,8 +20052,8 @@ and her hands cold like stone.
 
 
 
-
 CHAPTER XX.
+
 
    "Vec. Ye see what follows.
    Duke. O gentle sir! this shape again!"--The Chances.
@@ -19898,7 +20080,7 @@ The day had been intensely cold. Towards evening the snow fell fast and
 heavily. Sidney had not, since a child, been before in London; and the
 immense City, covered with a wintry and icy mist, through which the
 hurrying passengers and the slow-moving vehicles passed, spectre-like,
-along the dismal and slippery streets-opened to the stranger no
+along the dismal and slippery streets--opened to the stranger no
 hospitable arms. He knew not a step of the way--he was pushed to and
 fro--his scarce intelligible questions impatiently answered--the snow
 covered him--the frost pierced to his veins. At length a man, more
@@ -19953,7 +20135,7 @@ more--that you love another--I will not yield you but with life."
 He stalked sternly and impetuously up to Philip, who recoiled as his
 rival advanced. The characters of the two men seemed suddenly changed.
 The timid dreamer seemed dilated into the fearless soldier. The soldier
-seemed shrinking--quailing-into nameless terror. Sidney grasped that
+seemed shrinking--quailing--into nameless terror. Sidney grasped that
 strong arm, as Philip still retreated, with his slight and delicate
 fingers, grasped it with violence and menace; and frowning into the face
 from which the swarthy blood was scared away, said, in a hollow whisper:
@@ -19985,8 +20167,8 @@ is! Follow me--follow!"
 
 And still retaining his grasp, and leading Sidney, who was now subdued,
 awed, and a prey to new and wild suspicions, he moved on gently, stride
-by stride--his eyes fixed on that fair face--his lips muttering-till the
-closing door shut both forms from the eyes of the three there left.
+by stride--his eyes fixed on that fair face--his lips muttering--till
+the closing door shut both forms from the eyes of the three there left.
 
 It was the adjoining room into which Philip led his rival. It was lit
 but by a small reading-lamp, and the bright, steady blaze of the fire;
@@ -20076,7 +20258,7 @@ Beaufort was re-admitted), Philip never disclosed, nor could Sidney
 himself ever obtain a clear account from Camilla, who could not recall
 it, even years after, without great emotion. But at last the door was
 opened, and Philip entered, leading Camilla by the hand. His face was
-calm, and there was a smile on his lips; a greater dignity than even.
+calm, and there was a smile on his lips; a greater dignity than even
 that habitual to him was diffused over his whole person. Camilla was
 holding her handkerchief to her eyes and weeping passionately. Mr.
 Beaufort followed them with a mortified and slinking air.
@@ -20119,8 +20301,8 @@ receive this offering, and bless that union! Fare ye well."
 
 
 
-
 CHAPTER XXI.
+
 
      "Heaven's airs amid the harpstrings dwell;
      And we wish they ne'er may fade;
@@ -20220,7 +20402,7 @@ together, all thought beyond shut out (for, however crushing for the
 time the blow that had stricken Philip from health and reason, he
 was not that slave to a guilty fancy, that he could voluntarily
 indulge--that he would not earnestly seek to shun--all sentiments
-'chat yet turned with unholy yearning towards the betrothed of his
+that yet turned with unholy yearning towards the betrothed of his
 brother);--gradually, I say, and slowly, came those progressive and
 delicious epochs which mark a revolution in the affections:--unspeakable
 gratitude, brotherly tenderness, the united strength of compassion
@@ -20346,8 +20528,8 @@ fixed for the marriage of his brother and Camilla.
 
 
 
-
 CHAPTER XII.
+
 
      From Night, Sunshine and Day arose--HES
 
@@ -20579,8 +20761,8 @@ faith, the heaven!
 
 
 
-
 CHAPTER THE LAST.
+
 
         "A labore reclinat otium."--HORAT.
 
@@ -20699,6 +20881,7 @@ which Hope springs out the brighter from former disappointments--the one
 in which the MEMORIES are the most tender and the most abundant--the one
 which, replacing all others, nothing hereafter can replace.
 
+
          ......
 
 And now ere the scene closes, and the audience, whom perhaps the actors
@@ -20737,174 +20920,164 @@ in his eyes, that he blessed God. He looked upon the mother's face, he
 glanced round on the flowers and foliage of the luxurious summer, and
 again he blessed God: And without and within, it was Light and MORNING!
 
-
 THE END.
 
 
 
-
-
-
-
-
-
-End of the Project Gutenberg EBook of Night and Morning, Complete, by 
+End of the Project Gutenberg EBook of Night and Morning, Complete, by
 Edward Bulwer-Lytton
 
 *** END OF THIS PROJECT GUTENBERG EBOOK NIGHT AND MORNING, COMPLETE ***
 
-***** This file should be named 9755.txt or 9755.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/9/7/5/9755/
+***** This file should be named 9755.txt or 9755.zip ***** This and
+all associated files of various formats will be found in:        http://www.gutenberg.org/9/7/5/9755/
 
 Produced by David Widger
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
+Updated editions will replace the previous one--the old editions will be
+renamed.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in
+the General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You
+may use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
 *** START: FULL LICENSE ***
 
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
+DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License (available with this file or online at
 http://gutenberg.org/license).
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree
+to and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all the
+terms of this agreement, you must cease using and return or destroy all
+copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used
+on or associated in any way with an electronic work by people who agree
+to be bound by the terms of this agreement. There are a few things that
+you can do with most Project Gutenberg-tm electronic works even without
+complying with the full terms of this agreement. See paragraph 1.C
+below. There are a lot of things you can do with Project Gutenberg-tm
+electronic works if you follow the terms of this agreement and help
+preserve free future access to Project Gutenberg-tm electronic works.
+See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+Gutenberg-tm electronic works. Nearly all the individual works in
+the collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you
+are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed. Of course, we hope that you will support the
+Project Gutenberg-tm mission of promoting free access to electronic
+works by freely sharing Project Gutenberg-tm works in compliance with
+the terms of this agreement for keeping the Project Gutenberg-tm name
+associated with the work. You can easily comply with the terms of this
+agreement by keeping this work in the same format with its attached
+full Project Gutenberg-tm License when you share it without charge with
+others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
+before downloading, copying, displaying, performing, distributing
+or creating derivative works based on this work or any other Project
+Gutenberg-tm work. The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
+1.E.1. The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+or charges. If you are redistributing or providing access to a work with
+the phrase "Project Gutenberg" associated with or appearing on the work,
+you must comply either with the requirements of paragraphs 1.E.1 through
+1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
+terms imposed by the copyright holder. Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
+1.E.5. Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other
+than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the full
+Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing access
+to or distributing Project Gutenberg-tm electronic works provided that
 
 - You pay a royalty fee of 20% of the gross profits you derive from
      the use of Project Gutenberg-tm works calculated using the method
@@ -20927,76 +21100,72 @@ that
      and discontinue all use of and all access to other copies of
      Project Gutenberg-tm works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
+- You provide, in accordance with paragraph 1.F.3, a full refund of any     money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
      of receipt of the work.
 
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+- You comply with all other terms of this agreement for free     distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set forth
+in this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the
+owner of the Project Gutenberg-tm trademark. Contact the Foundation as
+set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+public domain works in creating the Project Gutenberg-tm collection.
+Despite these efforts, Project Gutenberg-tm electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
+liability to you for damages, costs and expenses, including legal fees.
+YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
+BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
+PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
+ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
+ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
+EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect
+in this electronic work within 90 days of receiving it, you can receive
+a refund of the money (if any) you paid for it by sending a written
+explanation to the person you received the work from. If you received
+the work on a physical medium, you must return the medium with your
+written explanation. The person or entity that provided you with the
+defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
 providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
+receive the work electronically in lieu of a refund. If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4. Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
+the applicable state law. The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
 promotion and distribution of Project Gutenberg-tm electronic works,
@@ -21007,106 +21176,108 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
+including obsolete, old, middle-aged and new computers. It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
 assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
+goals and ensuring that the Project Gutenberg-tm collection will remain
+freely available for generations to come. In 2001, the Project Gutenberg
+Literary Archive Foundation was created to provide a secure and
+permanent future for Project Gutenberg-tm and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org.
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section 3. Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+501(c)(3) educational corporation organized under the laws of the state
+of Mississippi and granted tax exempt status by the Internal Revenue
+Service. The Foundation's EIN or federal tax identification number
+is 64-6221541. Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising. Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state's laws.
 
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
+throughout numerous locations. Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887,
+email business@pglaf.org. Email contact links and up to date contact
+information can be found at the Foundation's web site and official page
+at http://pglaf.org
 
-For additional contact information:
-     Dr. Gregory B. Newby
+For additional contact information:     Dr. Gregory B. Newby
      Chief Executive and Director
      gbnewby@pglaf.org
 
 
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+Section 4. Information about Donations to the Project Gutenberg Literary
+Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array
+of equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status with
+the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit http://pglaf.org
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside
+the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+methods and addresses. Donations are accepted in a number of other ways
+including checks, online payments and credit card donations. To donate,
+please visit: http://pglaf.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5. General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
+with anyone. For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as Public Domain in the U.S. unless
+a copyright notice is included. Thus, we do not necessarily keep eBooks
+in compliance with any particular paper edition.
 
 
 Most people start at our Web site which has the main PG search facility:
 
      http://www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+This Web site includes information about Project Gutenberg-tm, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
+
+
+
